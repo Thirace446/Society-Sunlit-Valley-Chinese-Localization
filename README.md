@@ -7,4 +7,5 @@ The resource pack version of the Chinese localization for Society: Sunlit Valley
 ## Modpack
 ## 整合包
 https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley
+
 https://www.curseforge.com/minecraft/modpacks/society-sunlit-cobblemon
