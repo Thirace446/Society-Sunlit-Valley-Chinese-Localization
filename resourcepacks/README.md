@@ -20,20 +20,22 @@
    [ ]钓鱼宝典
   计划在4.1.0前完成
 
-- Society: Sunlit Cobblemon 粗翻 - 由 Thirace 制作的代办清单
+- Society: Sunlit Cobblemon 粗翻 - 由 Thirace 制作的代办清单 
   https://pastebin.com/rN4KY5Yk
-  计划在1.0发布前完成
-
+  ↑ 已过时 等待Chakyl发起Sunlit Cobblemon翻译
+  已完成90%
 
 
 ## 汉化更新日志
 
 ### v4.0.5-9
-### 未提交
+
 [x]ftbquestlocalizer
 - 修改
   部分(金币 > 钱币)
   泰拉凝聚板(三 > 四)
+  部分任务的ID
+  出货箱信息
 [x]vintagedelight
 - 修改
   发酵罐 > 黄瓜果酱
@@ -41,7 +43,10 @@
   松花蛋 > 皮蛋
   醋坛 > 醋罐
   苹果酱罐 > 苹果果罐
-
+  坚果碎 > 花生酱
+[x]kata
+- 添加
+  新玩偶翻译
 
 ### v4.0.5-8
 
