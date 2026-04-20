@@ -10,18 +10,15 @@
 
 
 ### 目前正在进行的汉化：
-- Society: Sunlit Valley 精翻 - 由 yizhouuu 发起的 Crowdin 项目
+#### Society: Sunlit Valley 精翻 - 由 yizhouuu 发起的 Crowdin 项目
   https://crowdin.com/project/ssv
   无时间规划(大概)
 
-- Society: Sunlit Valley 粗翻 - 由 Thirace 制作的代办清单
-  [ ]patchouli_books
-   [ ]农夫年鉴
-   [ ]钓鱼宝典
-  计划在4.1.0前完成
+#### Society: Sunlit Valley 粗翻 - 由 Thirace 制作
+- patchouli_books (农夫年鉴|钓鱼宝典)
+- 计划在4.1.0前完成
 
-- Society: Sunlit Cobblemon 粗翻 - 由 Thirace 制作的代办清单 
-  https://pastebin.com/rN4KY5Yk
-  ↑ 已过时 等待Chakyl发起Sunlit Cobblemon翻译
-  已完成90%
+#### Society: Sunlit Cobblemon 粗翻 - 由 Thirace 制作 
+- 已完成90%
+- 等待Chakyl发起Sunlit Cobblemon翻译
 
