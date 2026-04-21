@@ -58,7 +58,7 @@
 
   "block.sunlit_cobblemon.trainer_podium.description": "邀请训练家到你的道馆。他们的等级会与你队伍的平均等级相匹配",
   "block.sunlit_cobblemon.sun_raid_statue.description": "每天一次召唤一只太阳团战宝可梦. Shift + 右键启动雕像",
-  "block.sunlit_cobblemon.sun_raid_statue.breaks_forever": "按住潜行才能破坏太阳团战雕像，但这样会亵渎它的神性，并它也不会掉落。",
+  "block.sunlit_cobblemon.sun_raid_statue.breaks_forever": "按住潜行才能破坏太阳团战雕像，但这样会亵渎它的神性，且它也不会掉落。",
   "block.sunlit_cobblemon.poke_loot_ball": "普通战利品球",
 
   "tooltip.unimplemented_items.repel.description": "阻止宝可梦生成，即使附近有人佩戴了西尔佛检视镜。",
