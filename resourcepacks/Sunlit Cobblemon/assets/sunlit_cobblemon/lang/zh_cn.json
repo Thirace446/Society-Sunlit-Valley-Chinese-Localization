@@ -402,7 +402,7 @@
   "sunlit_cobblemon.books.berry_labor_and_capital.description": "+5 宝可梦工作槽位",
   "sunlit_cobblemon.books.bottlecaps_and_nothingness.description": "有小概率在战利品箱中找到银色王冠.",
   "sunlit_cobblemon.books.braiding_surprisegrass.description": "收获农作物和水果时发现宝可梦的概率翻倍",
-  "sunlit_cobblemon.books.the_gachamonbler.description": "宝可梦扭蛋开出闪光宝可梦的概率提升至3倍。金色及以上品质的胶囊也适用这个提升。",
+  "sunlit_cobblemon.books.the_gachamonbler.description": "宝可梦扭蛋开出闪光宝可梦的概率提升至2倍。金色及以上品质的胶囊也适用这个提升。",
   "sunlit_cobblemon.books.mukbeth.description": "当使用宝可梦浮标时不再钓到臭泥,破破袋,以及它们的进化形态",
   "sunlit_cobblemon.books.savage_sun.description": "太阳团战雕像有15%的概率无视激活冷却时间。",
   "sunlit_cobblemon.skills.trainer_level.category.title": "训练家等级",
@@ -419,7 +419,7 @@
   "sunlit_cobblemon.skills.trainer_level.iridium": "天王级",
   "sunlit_cobblemon.skills.trainer_level.iridium.description": "§9解锁友好商店新商品§7\n友好商店出售高级浮标\n§6解锁阳光团战新祭礼§r\n§d+3 个工作槽位",
   "sunlit_cobblemon.skills.trainer_level.ancient": "冠军级",
-  "sunlit_cobblemon.skills.trainer_level.ancient.description": "§9解锁友好商店新商品§7\n友好商店出售高级浮标\n§6解锁阳光团战新祭礼§r\n§d+3 个工作槽位",
+  "sunlit_cobblemon.skills.trainer_level.ancient.description": "§9解锁友好商店新商品§7\n§6解锁阳光团战新祭礼§r\n§d+3 个工作槽位",
   "sunlit_cobblemon.skills.trainer_level.prismatic": "大师级",
   "sunlit_cobblemon.skills.trainer_level.prismatic.description": "§9友好商店出售神秘礼物§7\n友好商店出售大师浮标\n§6解锁阳光团战新祭礼§r\n§d+6 个工作槽位",
 
