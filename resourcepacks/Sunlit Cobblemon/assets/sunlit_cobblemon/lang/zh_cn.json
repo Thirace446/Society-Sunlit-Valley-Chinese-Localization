@@ -42,6 +42,9 @@
   "sunlit_cobblemon.loss.fee": "● §c%s§7 已支付给胜者...",
   "sunlit_cobblemon.regi.fail": "顺序似乎不对...",
   "sunlit_cobblemon.regi.no_space": "组合是正确的，但这里似乎没有足够空旷的空间...",
+  "tooltip.sunlit_cobblemon.bag_item_limit": "道馆馆主每场对战只能使用 %s 个道具！",
+  "tooltip.sunlit_cobblemon.nearby_shiny": "附近似乎有一只闪光的 %s",
+  
   "sunlit_cobblemon.trainer_podium.label": "§a%s§r§7 的训练家平台",
   "sunlit_cobblemon.trainer_podium.streak": "当前连胜：%s",
   "sunlit_cobblemon.trainer_podium.tier": "§7训练家阶位：§r §6%s",
