@@ -19,7 +19,4 @@
 - 计划在4.1.0前完成
 
 #### Society: Sunlit Cobblemon 粗翻 - 由 Thirace 制作 
-- 已完成90%
-- 等待Chakyl发起Sunlit Cobblemon翻译
-  
-
+- 暂时完工，等待作者后续更新
