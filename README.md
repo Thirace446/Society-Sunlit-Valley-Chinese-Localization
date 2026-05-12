@@ -12,7 +12,6 @@ https://www.curseforge.com/minecraft/modpacks/society-sunlit-cobblemon
 ## 汉化反馈群：700510144
 (不提供BBSMC和柠娜对于阳光谷翻译的支持)
 
-
 ### 如果你想要参与汉化：
 - 请加入官方的Discord频道并获取 Translator 身份组后找到我们中文专属的帖子。
 - https://discord.gg/GdcZkrZqkj
