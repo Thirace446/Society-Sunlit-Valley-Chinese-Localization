@@ -1838,7 +1838,7 @@
   "ftbquests.chapter.welcome.quest18490F31FFAB134E.description1": "如果你运行的服务器中有不同的团队、且他们会在不同时间上线，那么你可以选择在配置中修改季节长度。",
   "ftbquests.chapter.welcome.quest18490F31FFAB134E.description2": "通过修改&6config/sereneseasons/seasons.toml&r中的&6sub_season_duration&r来完成。",
   "ftbquests.chapter.welcome.quest18490F31FFAB134E.description3": "对于较大的服务器，建议将此值设为 16-20，以防某个团队在一天内结束特定季节。",
-  "ftbquests.chapter.welcome.quest18490F31FFAB134E.description4": "&o注意：需要同时修改服务端和客户端的配置文件，这样才能使季节 HUD 与服务器保持一致。&r",
+  "ftbquests.chapter.welcome.quest18490F31FFAB134E.description4": "&l&c注意：需要同时修改服务端和客户端的配置文件，这样才能使季节HUD与服务器保持一致。&r",
   "ftbquests.chapter.welcome.quest18490F31FFAB134E.task.8807378033024393131.title": "明白了",
   "ftbquests.chapter.welcome.quest18490F31FFAB134E.title": "给服务器服主",
   "ftbquests.chapter.welcome.quest25305BECA3C32315.description1": "由于骷髅洞穴的世界生成较为复杂，我们建议使用 Chunky Mod 预生成该维度！为此，请运行以下命令：",

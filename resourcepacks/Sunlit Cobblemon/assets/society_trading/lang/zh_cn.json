@@ -50,6 +50,11 @@
   "shop.society_trading.carpenter.description": "出售建筑方块和季节性家具，用于建造农场。",
   "shop.society_trading.invitations.description": "可在此兑换邀请函，邀请新村民入驻你的城镇。",
   "shop.society_trading.guild.description": "出售用于野外冒险和讨伐怪物的各类物资",
+
+  "shop.society_trading.poke_mart.description": "出售基础的宝可梦培育物品。特定商品仅对高阶训练家开放。",
+  "shop.society_trading.sun_offering.description": "提供稀有商品，需要用灌注了太阳之力物品进行兑换。",
+  "shop.society_trading.ball_boutique.description": "专为高阶训练家提供特制精灵球。本店仅在每个季节中旬开放。",
+
   "shop.society_trading.ribbit_fisher.description": "呱呱...?",
   "shop.society_trading.ribbit_merchant.description": "呱呱...",
   "shop.society_trading.wanderer.description": "旅商会带着琳琅满目的家具与书籍作为商品拜访你。",
