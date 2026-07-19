@@ -171,8 +171,9 @@
   "society_skills.books.the_spark_also_rises.description": "开采任何矿石都会掉落火花石。\n§6需要解锁采矿精通",
   "society_skills.books.universal_methods_of_farming.description": "市场在所有季节都出售所有基础种子。",
   "society_skills.books.wuthering_logs.description": "砍树有 15%% 几率掉落柴火。",
-  "society_skills.books.the_quality_of_the_earth.description": "非鱼类农产品的品质加成翻倍。\n§6需要解锁耕种精通",
+  "society_skills.books.the_quality_of_the_earth.description": "非鱼类农产品的品质对价格的加成翻倍。\n§6需要解锁耕种精通",
   "society_skills.books.the_red_and_the_black.description": "晶球、战利品箱和老虎机额外掉落一件物品。\n§6需要解锁冒险精通",
   "society_skills.books.pond_house_five.description": "升级鱼塘需求的物品数量减半。\n§6需要解锁钓鱼精通",
-  "society_skills.books.women_who_run_with_the_plushies.description": "毛绒玩具初始拥有 2 颗心好感度。\n提高高品质毛绒玩具的出现几率。\n§6需要解锁畜牧精通"
+  "society_skills.books.women_who_run_with_the_plushies.description": "毛绒玩具初始拥有 2 颗心好感度。\n提高高品质毛绒玩具的出现几率。\n§6需要解锁畜牧精通",
+  "society_skills.books.the_metamorphosize.description": "Impact of size on Butterfly/Moth prices are tripled."
 }
