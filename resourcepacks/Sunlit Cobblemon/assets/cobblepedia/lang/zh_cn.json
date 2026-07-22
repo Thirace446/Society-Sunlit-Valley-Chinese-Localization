@@ -84,7 +84,7 @@
   "book.cobblepedia.entries.medicinal_leek.eating.text": "$(l:food)食用$()疗草可恢复1点饥饿和0.2点饱食度。$(br)玩家可以以比游戏中许多其他食物项目快大约两倍的速度消耗疗草，就像干海带一样。",
   "book.cobblepedia.entries.medicinal_leek.composting.text": "将疗草放入堆肥桶中，有65%%的几率提高堆肥等级1级。",
   "book.cobblepedia.entries.roasted_leek.text": "$(l)烤疗草$()是一种快速食用的$(l:food)食物$()项目，就像$(l:medicinal_leek)疗草$()一样，但恢复3点饥饿和0.3点饱食度。",
-  "book.cobblepedia.entries.leek_and_potato_stew.text": "$(l)疗草马铃薯炖汤$()不像$(l:medicinal_leek)疗草$()或$(l:roasted_leek)烤疗草$()那样快速食用的$(l:food)食物$()项目，但食用时可恢复8点饥饿和0.6点饱食度。吃完炖汤后碗会被归还给玩家的物品栏中。",
+  "book.cobblepedia.entries.leek_and_potato_stew.text": "$(l)疗草土豆炖汤$()不像$(l:medicinal_leek)疗草$()或$(l:roasted_leek)烤疗草$()那样快速食用的$(l:food)食物$()项目，但食用时可恢复8点饥饿和0.6点饱食度。吃完炖汤后碗会被归还给玩家的物品栏中。",
   "book.cobblepedia.entries.revival_herb.text": "$(l)复活草$()是一种生长在繁茂洞穴中的$(l:crop)作物$()。它可以用来制作某些$(l:items)物品$()，或直接用于完全复活一只晕倒的宝可梦，同时降低友好度。",
   "book.cobblepedia.entries.revival_herb.obtaining.text": "1-7阶段的复活草将掉落1株复活草。$(br)8阶段的复活草将掉落2-3株复活草。$(br)9阶段的复活草将掉落3-4株复活草和1-2$(l:pep_up_flower)PP草$()。",
   "book.cobblepedia.entries.revival_herb.generation.text": "复活草可以在繁茂洞穴中自然生长。",
