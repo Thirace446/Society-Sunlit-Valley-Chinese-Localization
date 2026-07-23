@@ -123,7 +123,7 @@
   "shop.society_trading.fantasy_catalog": "奇幻目录",
   "shop.society_trading.modern_catalog": "现代目录",
 
-  "shop.society_trading.tanuki_catalog.description": "出售狸猫系列的家具",
-  "shop.society_trading.fantasy_catalog.description": "出售奇幻系列的家具",
-  "shop.society_trading.modern_catalog.description": "出售现代系列的家具"
+  "shop.society_trading.tanuki_catalog.description": "出售狸猫系列家具",
+  "shop.society_trading.fantasy_catalog.description": "出售奇幻系列家具",
+  "shop.society_trading.modern_catalog.description": "出售现代系列家具"
 }
