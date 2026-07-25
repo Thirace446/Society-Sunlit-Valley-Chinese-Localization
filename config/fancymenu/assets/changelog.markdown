@@ -1,0 +1,136 @@
+^^^
+## Cozy Cafe
+## 温馨咖啡厅
+### v4.1.0
+^^^
+--- 
+- Added Cozy Cafe, a new mod made for the pack that adds a Diner Dash/Plate Up! style cafe management minigame
+- 新增温馨咖啡厅，一个为该整合包打造的全新模组，添加了类似 Diner Dash/Plate Up! 风格的咖啡厅经营小游戏
+- Added new villagers: Trader, Witch, and Librarian (formerly Storagesmith)
+- 新增村民职业：交易商、女巫以及图书管理员（原储物匠）
+- Added new system for Building Shop (Previously in the Quest book) using Building Supplies
+- 新增建筑商店系统（原任务书），使用建材购买建筑
+- Added Rural farmhouse and villager building set by Duy Luong
+- 新增 Duy Luong 制作的乡村农舍建筑套装和村民建筑
+- Added Floral farmhouse building set by SianaTheSavage
+- 新增 SianaTheSavage 制作的花卉农舍建筑套装
+- Added Sakura farmhouse building set by EeveeBeby
+- 新增 EeveeBeby 制作的樱花农舍建筑套装
+- Added Butterfly and Moth breeding and genetics mechanics
+- 新增蝴蝶与飞蛾的繁育及遗传机制
+- Added Caterpillar Eggs and Caterpillar Box
+- 新增虫卵和蝴蝶孵化器
+- Added longwings: Tropical Leafwing Butterfly and Comet Moth
+- 新增长翅类：热带叶翅蝶和彗星蛾
+- Added sell values to Moths and Butterflies that scale off rarity and size
+- 飞蛾和蝴蝶新增售价，根据稀有度和体型浮动
+- Added Skill book: The Metamorphosize
+- 新增技能书：变形剂
+- Added Living Gnomes that are definitely real
+- 新增真实存在的生命侏儒
+- Added Fish Pond Hatchery
+- 新增鱼苗孵化器
+- Added Fish Pond Manager (Thanks Mayhan!)
+- 新增鱼塘管理器（感谢 Mayhan！）
+- Added Drum of the Cornucopia
+- 新增丰饶之鼓
+- Added Dry Totem
+- 新增晴天图腾
+- Added Rain Totem
+- 新增雨天图腾
+- Added Thunder Totem
+- 新增雷暴图腾
+- Added Fairy Dust
+- 新增仙女尘
+- Added ability for Wand of the Forest to view custom Botania block mana levels (looks jank but it works!)
+- 新增森林法杖查看自定义植物魔法方块魔力等级的能力（看起来有点别扭，但能用！）
+- Added random furniture items per day for sale from Carpenter
+- 新增木匠每日随机出售家具
+- Added more thorough jade support for crop growing (Thanks Hexagreen!)
+- 新增更完善的 Jade 作物生长支持（感谢 Hexagreen！）
+- Added filling recipe for Honey Roasted Peanut (Thanks Emma!)
+- 新增蜂蜜烤花生配方（感谢 Emma！）
+- Added ability to befriend the Mystical Wise Oak
+- 新增与神秘的智慧橡树交流的能力
+- Added recipe for Armadillo Spawn Egg crafting recipe
+- 新增犰狳刷怪蛋合成配方
+- Added Chaos Cubed update via Vanilla Backport
+- 通过 Vanilla Backport 模组的更新添加了 硫磺史莱姆
+- Added back vanilla villages and added a new type
+- 重新加入了原版村庄，并新增了一种村庄类型
+- Added White, Pink, and Mana Energy Drinks (Not agable as the aging from normal energy drink will be removed)
+- 新增白色、粉色和魔力能量滋补水（不可陈化，且其他能量滋补水的陈化也将被移除）
+- Added offline caching for Artisan Hopper, Auto-Grabber, Fish Pond Basket (Thanks simonLeary42!)
+- 新增工匠漏斗、自动收集器、鱼塘篮子的离线缓存（感谢 simonLeary42！）
+- Added sell values to cake slices and feast items
+- 新增蛋糕切片和盛宴物品的售价
+- Added Charting Map to guild
+- 新增可以在公会购买测绘地图
+- Added support for shared accounts in the Coin Leaderboard
+- 新增硬币排行榜中的共享账户支持
+- Added everycompat create windows with RP for nicer textures
+- 新增 everycompat 的 机械动力窗户模组，附带材质包纹理
+- Added Supreme Mayonnaise as a Beacon base
+- 新增至尊蛋黄酱可作为信标基座
+- Added stack groups to EMI/JEI 
+- 新增 EMI/JEI 中的堆叠分组
+- Reworked Mana Clock: Now works exactly like Golden Clock but with a smaller radius and mana cost
+- 重做了魔力时钟：现在与黄金时钟功能相同，但范围更小且消耗魔力
+- Reworked furniture catalogs to be shops instead of having unique items
+- 重做了家具目录，改为商店形式而非独立物品
+- Updated pt_br translation (Thanks RafaelJMBR!)
+- 更新了巴西葡萄牙语翻译（感谢 RafaelJMBR！）
+- Updated Galaxy Sword and Meowmageddon text to be shiny
+- 更新了银河之剑和彩虹猫之刃的文本，使其带有附魔光效
+- Increased Terracotta conversion rate 1/30s -> 1/10s
+- 提高陶瓦转化率 1/30秒 → 1/10秒
+- Increased Bountiful Fertilizer crafting output 1 -> 4
+- 提高丰饶肥料合成产出 1 → 4
+- Increased fishing spot range tolerance
+- 提高钓鱼点的范围容错
+- Re-added adv pump upgrade due to fixes
+- 重新添加了经验泵升级
+- Reduced max mana of mana fruit crops so they don't suck up as much mana
+- 降低魔力果作物的最大魔力值，使其不会消耗过多魔力
+- Reduced Sparkstone Recyler mana consumption per recycle 10k -> 5k
+- 降低火花石回收机的魔力消耗 10000 → 5000
+- Reduced max upgrade from Hay Golems to High Quality Fertilizer
+- 降低干草傀儡升级高品质肥料的上限
+- Reduced effective cost of larger building shop building types
+- 降低购买大型建筑需要的材料
+- Reduced heat requirement for green, hibiscus, yerba mate, and rooibos tea
+- 降低制作绿茶、木槿花茶、马黛茶和红灌木茶所需的热量
+- Reduced sound volume of mana sprinklers
+- 降低魔力洒水器的音效
+- Removed beachparty radio due to issues
+- 移除了沙滩派对收音机（存在问题）
+- Removed offshoot grape fluid types as they are now unified into red/white
+- 移除了分支葡萄流体类型，现已统一为红/白葡萄
+- Renamed Bookseller to Book Fair
+- 将 (书商)Bookseller 更名为 (书展)Book Fair
+- Fixed certain society blocks not having pickaxe minable tags
+- 修复了某些society添加的自定义方块没有可挖掘标签的问题
+- Fixed Mana Sprinkler having wrong working area
+- 修复了魔力洒水器工作范围错误的问题
+- Fixed Mana Clock not working 
+- 修复了魔力时钟不工作的问题
+- Fixed Ripper Tooth not working
+- 修复了裂锯鱼齿无法使用的问题
+- Fixed Diamond wand not working with destruction core
+- 修复了钻石手杖与破坏核心不兼容的问题
+- Fixed Husbandry Hourly not appearing in the Bookseller/Book Fair
+- 修复了畜牧时刊未出现在书展的问题
+- Fixed Crystalarium's Black Opal upgrade not working on manual harvests
+- 修复了水晶机的黑欧泊升级在手动收获时无效的问题
+- Fixed pelican meat not having correct tags
+- 修复了鹈鹕肉标签错误的问题
+- Fixed Sommelier trait not taking into account recipe output count (e.x. Artifact Shards)
+- 修复了酒侍特质未考虑配方产出数量的问题（如 文物碎片）
+- Fixed bottom kelp blocks not being valid fish pond water blocks
+- 修复了含水海带台阶不能作为鱼塘水源方块的问题
+- Fixed Redstone Link using Brass Casing instead of Andesite
+- 修复了红石连接器使用黄铜外壳而非安山合金的问题
+- Fixed building sets having inconsistent amounts of troughs
+- 修复了建筑套装中水槽数量不一致的问题
+- Fixed Prismatic Shard/Sparkstone blocks not having minable tags
+- 修复了五彩碎片/火花石块没有可挖掘标签的问题
