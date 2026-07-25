@@ -515,7 +515,7 @@
 	"dialog.npc.carpenter.unique_five_gift.line_3": "不过我没找到神秘柳树木，所以我拜托卡洛琳才搞到用这种木头做的方块……",
 	"dialog.npc.carpenter.unique_five_gift.line_4": "非常感激你为这个小镇做的一切，希望这本百科能在你今后的建设中派上用场！",
 	"dialog.npc.carpenter.unique_need_to_buy.line_0": "需要在店里卖点什么吗？",
-	"dialog.npc.carpenter.dialog.need_to_buy.option_0": "采购物资",
+	"dialog.npc.carpenter.dialog.need_to_buy.option_0": "采购建材",
 	"dialog.npc.carpenter.dialog.need_to_buy.option_1": "邀请村民",
 	"dialog.npc.carpenter.dialog.need_to_buy.option_2": "建造农场建筑",
 	"dialog.npc.carpenter.dialog.need_to_buy.option_3": "建造村民建筑",
