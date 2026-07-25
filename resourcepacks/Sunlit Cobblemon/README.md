@@ -59,7 +59,7 @@
   </details>
 - 启动游戏后在材质包设置中，务必将阳光谷汉化置于最上方，阳光谷有非常多专门调整过的文本，如果只安装I18n汉化资源包会导致一些物品和描述被原模组翻译覆盖，从而达不到正确的翻译效果
 
-#### 主菜单更新日志汉化 和 帕秋莉手册汉化 (4.1.0 新增)
+#### 帕秋莉手册汉化 (4.1.0 新增)
 ##### Extra Society Sunlit Valley Chinese Localization 
 - 需要解压到根目录使用(可选)
   <details>
@@ -67,7 +67,6 @@
   <pre><code>
   Sunlit Valley
   └──minecraft
-     ├──config
      └──patchouli_books
   </code></pre>
   </details>
