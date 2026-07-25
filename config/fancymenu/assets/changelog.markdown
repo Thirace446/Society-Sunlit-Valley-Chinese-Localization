@@ -9,6 +9,8 @@
 - 新增村民职业：交易员、女巫以及图书管理员（原储物匠）
 - Added new system for Building Shop (Previously in the Quest book) using Building Supplies
 - 新增建筑商店系统（原任务书），使用建材购买建筑
+- Added Rural farmhouse and villager building set by Duy Luong
+- 新增 Duy Luong 制作的乡村农舍建筑套装和村民建筑
 - Added Floral farmhouse building set by SianaTheSavage
 - 新增 SianaTheSavage 制作的花卉农舍建筑套装
 - Added Sakura farmhouse building set by EeveeBeby
@@ -75,6 +77,8 @@
 - 重做了魔力时钟：现在与黄金时钟功能相同，但范围更小且消耗魔力
 - Reworked furniture catalogs to be shops instead of having unique items
 - 重做了家具目录，改为商店形式而非独立物品
+- Updated pt_br translation (Thanks RafaelJMBR!)
+- 更新了巴西葡萄牙语翻译（感谢 RafaelJMBR！）
 - Updated Galaxy Sword and Meowmageddon text to be shiny
 - 更新了银河之剑和彩虹猫之刃的文本，使其带有附魔光效
 - Increased Terracotta conversion rate 1/30s -> 1/10s
@@ -83,6 +87,8 @@
 - 提高丰收肥料合成产出 1 → 4
 - Increased fishing spot range tolerance
 - 提高钓鱼点的范围容错
+- Re-added adv pump upgrade due to fixes
+- 重新添加了经验泵升级
 - Reduced max mana of mana fruit crops so they don't suck up as much mana
 - 降低魔力果作物的最大魔力值，使其不会消耗过多魔力
 - Reduced Sparkstone Recyler mana consumption per recycle 10k -> 5k
@@ -100,7 +106,7 @@
 - Removed offshoot grape fluid types as they are now unified into red/white
 - 移除了分支葡萄流体类型，现已统一为红/白葡萄
 - Renamed Bookseller to Book Fair
-- 将 (书商)Bookseller 更名为 (书展)Book Fair (翻译：但由于书展这个词并不适合已有的句式，译者认为继续保持书商更好)
+- 将 (书商)Bookseller 更名为 (书展)Book Fair (中文：但由于书展这个词并不适合已有的句式，译者认为继续保持书商更好)
 - Fixed certain society blocks not having pickaxe minable tags
 - 修复了某些society添加的自定义方块没有可挖掘标签的问题
 - Fixed Mana Sprinkler having wrong working area
