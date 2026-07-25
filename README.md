@@ -49,7 +49,7 @@
 ##### Society Sunlit Valley Chinese Localization
 - 无需解压，直接添加到材质包 resourcepacks 文件夹！！！ 
   <details>
-  <summary>添加的文件如下所示</summary>
+  <summary>如下所示</summary>
   <pre><code>
   Sunlit Valley
   └──resourcepacks
@@ -63,7 +63,7 @@
 ##### Extra Society Sunlit Valley Chinese Localization 
 - 需要解压到根目录使用(可选)
   <details>
-  <summary>添加的文件如下所示</summary>
+  <summary>如下所示</summary>
   <pre><code>
   Sunlit Valley
   └──minecraft
@@ -77,7 +77,7 @@
 ##### Society Sunlit Cobblemon Chinese Localization
 - 无需解压，直接添加到材质包 resourcepacks 文件夹！！！ 
   <details>
-  <summary>添加的文件如下所示</summary>
+  <summary>如下所示</summary>
   <pre><code>
   Sunlit Cobblemon
   └──resourcepacks
