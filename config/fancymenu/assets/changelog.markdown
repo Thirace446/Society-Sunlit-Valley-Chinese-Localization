@@ -59,7 +59,7 @@
 - Added back vanilla villages and added a new type
 - 重新加入了原版村庄，并新增了一种村庄类型
 - Added White, Pink, and Mana Energy Drinks (Not agable as the aging from normal energy drink will be removed)
-- 新增白色、粉色和魔力能量饮料（不可陈化，且其他能量饮料的陈化也将被移除）
+- 新增白色、粉色和魔力能量滋补水（不可陈化，且其他能量滋补水的陈化也将被移除）
 - Added offline caching for Artisan Hopper, Auto-Grabber, Fish Pond Basket (Thanks simonLeary42!)
 - 新增工匠漏斗、自动收集器、鱼塘篮子的离线缓存（感谢 simonLeary42！）
 - Added sell values to cake slices and feast items

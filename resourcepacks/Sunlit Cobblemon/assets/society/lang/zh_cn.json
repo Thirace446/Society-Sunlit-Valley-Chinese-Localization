@@ -879,7 +879,7 @@
   "item.society.magnifying_glass.description.view_block.sprinklers": "所有洒水器",
   "item.society.overflow_token.description": "永久为你的金币排行榜分数增加 %s， \n此操作不受银行账户上限限制。",
   "item.society.overflow_token.description.warn": "溢出令牌一旦使用无法撤回",
-  "item.society.book_of_stars.description": "右键使用以增加所有技能的经验值",
+  "item.society.book_of_stars.description": "右键使用即可增加所有技能的经验值！",
   "item.society.enriched_bone_meal.tree_fruit_season": "这棵树仅在 %s 结果！",
   "item.society.iron_upgrade_smithing_template.upgrade": "铁升级",
   "item.society.iron_upgrade_smithing_template.applies_to": "石制、皮革、锁链以及其他工具和装备",
