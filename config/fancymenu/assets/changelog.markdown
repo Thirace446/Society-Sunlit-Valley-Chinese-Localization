@@ -1,12 +1,13 @@
 ^^^
 ## Cozy Cafe
+## 温馨咖啡厅
 ### v4.1.0
 ^^^
 --- 
 - Added Cozy Cafe, a new mod made for the pack that adds a Diner Dash/Plate Up! style cafe management minigame
 - 新增温馨咖啡厅，一个为该整合包打造的全新模组，添加了类似 Diner Dash/Plate Up! 风格的咖啡厅经营小游戏
 - Added new villagers: Trader, Witch, and Librarian (formerly Storagesmith)
-- 新增村民职业：交易员、女巫以及图书管理员（原储物匠）
+- 新增村民职业：交易商、女巫以及图书管理员（原储物匠）
 - Added new system for Building Shop (Previously in the Quest book) using Building Supplies
 - 新增建筑商店系统（原任务书），使用建材购买建筑
 - Added Rural farmhouse and villager building set by Duy Luong
@@ -18,7 +19,7 @@
 - Added Butterfly and Moth breeding and genetics mechanics
 - 新增蝴蝶与飞蛾的繁育及遗传机制
 - Added Caterpillar Eggs and Caterpillar Box
-- 新增虫卵和虫箱
+- 新增虫卵和蝴蝶孵化器
 - Added longwings: Tropical Leafwing Butterfly and Comet Moth
 - 新增长翅类：热带叶翅蝶和彗星蛾
 - Added sell values to Moths and Butterflies that scale off rarity and size
@@ -84,7 +85,7 @@
 - Increased Terracotta conversion rate 1/30s -> 1/10s
 - 提高陶瓦转化率 1/30秒 → 1/10秒
 - Increased Bountiful Fertilizer crafting output 1 -> 4
-- 提高丰收肥料合成产出 1 → 4
+- 提高丰饶肥料合成产出 1 → 4
 - Increased fishing spot range tolerance
 - 提高钓鱼点的范围容错
 - Re-added adv pump upgrade due to fixes
@@ -106,7 +107,7 @@
 - Removed offshoot grape fluid types as they are now unified into red/white
 - 移除了分支葡萄流体类型，现已统一为红/白葡萄
 - Renamed Bookseller to Book Fair
-- 将 (书商)Bookseller 更名为 (书展)Book Fair (中文：但由于书展这个词并不适合已有的句式，译者认为继续保持书商更好)
+- 将 (书商)Bookseller 更名为 (书展)Book Fair
 - Fixed certain society blocks not having pickaxe minable tags
 - 修复了某些society添加的自定义方块没有可挖掘标签的问题
 - Fixed Mana Sprinkler having wrong working area
@@ -118,7 +119,7 @@
 - Fixed Diamond wand not working with destruction core
 - 修复了钻石手杖与破坏核心不兼容的问题
 - Fixed Husbandry Hourly not appearing in the Bookseller/Book Fair
-- 修复了畜牧时刊未出现在书商的问题
+- 修复了畜牧时刊未出现在书展的问题
 - Fixed Crystalarium's Black Opal upgrade not working on manual harvests
 - 修复了水晶机的黑欧泊升级在手动收获时无效的问题
 - Fixed pelican meat not having correct tags

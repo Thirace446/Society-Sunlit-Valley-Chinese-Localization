@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(l)属性$()$(li)🍂 §4秋季§r ❆ §b冬季§r $(li)尺寸：1x1$(li)产出：$(l:tree_crops/cinnamon)4-6 肉桂$(/l)$(br2)$(l)备注$()$(li)在交易员或烘焙师那里购买树苗。"
+      "text": "$(l)属性$()$(li)🍂 §4秋季§r ❆ §b冬季§r $(li)尺寸：1x1$(li)产出：$(l:tree_crops/cinnamon)4-6 肉桂$(/l)$(br2)$(l)备注$()$(li)在交易商或烘焙师那里购买树苗。"
     },
     {
       "type": "patchouli:multiblock",
