@@ -23,7 +23,7 @@
 - Fixed coin leaderboard not working
 - 修复金币排行榜不工作的问题
 - Fixed fantasy boxes not working
-- 修复幻彩箱不工作的问题
+- 修复幻想盒子不工作的问题
 - Fixed Artisan Hoppers, Fish Pond Baskets, and Auto-grabbers not accounting for skills due to caching change
 - 修复工匠漏斗、鱼塘篮子和自动收集器因缓存变更未计入技能的问题
 - Fixed issue where crossbows and paintings had missing models (probably)
