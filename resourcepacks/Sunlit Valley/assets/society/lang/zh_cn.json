@@ -403,6 +403,9 @@
   "society.starting_item_sharestone.title": "欢迎来到服务器",
   "society.starting_item_sharestone.author": "Society",
   "society.starting_item_sharestone.text": "Welcome!\n\n感谢你加入阳光谷多人服务器！送你一个白色的共享石碑，方便你往返于各处基地。在放置它之前，请务必先创建队伍并圈领你的土地！",
+  "society.login_update.title": "=== 欢迎来到 社会：阳光谷 4.1 版本！===",
+  "society.login_update.desc_0": "感谢你的游玩！旧的建筑商店已从任务书中移除。你现在可以在木匠村民艾斯那里购买蓝图。",
+  "society.login_update.desc_1": "此外，还添加了名为「蓝图」的专属物品用于直接访问建筑商店，同样可以在艾斯那里购买。",
   "society.prize_machine.hint.0": "某种多籽的玩意儿...",
   "society.prize_machine.hint.1": "某种扭来扭去、不停蠕动的东西...",
   "society.prize_machine.hint.2": "某种可以升级的玩意儿...",
@@ -468,6 +471,7 @@
   "society.villager_home.error": "[错误]！请带着日志向开发者反馈此问题~",
   "society.invitation.place_home": "放置村民住宅来决定这名村民的居住地！你可以随时移动它。",
   "society.item_frame.rod": "在把它放上去之前，得先把浮标拆下来...",
+  "society.new_villager.message": "有位新朋友想搬到你的小镇！去木匠的邀请函商店看看，向他们发出邀请吧。",
 
   "jei.society.category.seed_making": "种子制造",
   "jei.society.category.preserving": "腌制",
@@ -758,7 +762,7 @@
   "block.society.moon_statue.already_taken": "你今天已经获得过祝福了。",
   "block.society.villager_home.type": "召唤 %s",
   "block.society.villager_home.description": "将村民传送到你的城镇，并将附近区域设定为他们的家。 \n不能放置在其他村民附近。",
-  "block.society.fish_pond_manager.description": "每天早上 7 点管理鱼塘任务",
+  "block.society.fish_pond_manager.description": "每天早上 7 点提交鱼塘任务所需的物品",
   "block.society.caterpillar_box.description": "每 5 分钟孵化一次放入其中的虫卵。飞蛾和蝴蝶会从蝴蝶孵化器顶部飞出。",
 
   "item.society.froggy_helm.description": "里面有一根大舌头",

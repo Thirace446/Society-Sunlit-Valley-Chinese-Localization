@@ -1,9 +1,37 @@
 ^^^
 ## Cozy Cafe
-## 温馨咖啡厅
-### v4.1.0
+### v4.1.2
 ^^^
 --- 
+## 4.1.1
+- Added one time login message about building shop change
+- 新增建筑商店变更的一次性登录提示
+- Added message when a new villager can be invited
+- 新增可邀请新村民时的提示
+- Added arrows for sale to Guild
+- 为公会添加箭矢出售
+- Added no chat restrictions
+- 移除聊天限制
+- Updated zh cn translation (Thanks Thirace!)
+- 更新简体中文翻译（感谢 Thirace！）
+- Shortened Coin Leaderboard shared account length
+- 缩短金币排行榜共享账号长度
+- Fixed 'Constructing a Farmhouse' quest not being updated to new blueprints
+- 修复「建造农舍」任务未更新为新蓝图的问题
+- Fixed Veronica's max gift message being wrong
+- 修复维罗妮卡最高好感礼物消息错误的问题
+- Fixed coin leaderboard not working
+- 修复金币排行榜不工作的问题
+- Fixed fantasy boxes not working
+- 修复幻彩箱不工作的问题
+- Fixed Artisan Hoppers, Fish Pond Baskets, and Auto-grabbers not accounting for skills due to caching change
+- 修复工匠漏斗、鱼塘篮子和自动收集器因缓存变更未计入技能的问题
+- Fixed issue where crossbows and paintings had missing models (probably)
+- 修复弩和画缺失模型的问题（大概）
+- Fixed crash with Create Central Kitchen
+- 修复与机械动力中央厨房的崩溃问题
+
+## 4.0.0
 - Added Cozy Cafe, a new mod made for the pack that adds a Diner Dash/Plate Up! style cafe management minigame
 - 新增温馨咖啡厅，一个为该整合包打造的全新模组，添加了类似 Diner Dash/Plate Up! 风格的咖啡厅经营小游戏
 - Added new villagers: Trader, Witch, and Librarian (formerly Storagesmith)
