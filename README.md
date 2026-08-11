@@ -52,14 +52,15 @@
   <summary>如下所示</summary>
   <pre><code>
   Sunlit Valley
-  └──resourcepacks
-     ├──Society Sunlit Valley Chinese Localization.zip
-     └──Minecraft-Mod-Language-Modpack-1-20.zip
+  └──minecraft
+     └──resourcepacks
+        ├──Society Sunlit Valley Chinese Localization.zip
+        └──Minecraft-Mod-Language-Modpack-1-20.zip
   </code></pre>
   </details>
 - 启动游戏后在材质包设置中，务必将阳光谷汉化置于最上方，阳光谷有非常多专门调整过的文本，如果只安装I18n汉化资源包会导致一些物品和描述被原模组翻译覆盖，从而达不到正确的翻译效果
 
-#### 帕秋莉手册汉化 (4.1.0 新增)
+#### 帕秋莉手册汉化 (4.1.0 已合并-后续版本无需安装)
 ##### Extra Society Sunlit Valley Chinese Localization 
 - 需要解压到根目录使用(可选)
   <details>
@@ -79,10 +80,11 @@
   <summary>如下所示</summary>
   <pre><code>
   Sunlit Cobblemon
-  └──resourcepacks
-     ├──Society Sunlit Cobblemon Chinese Localization.zip
-     ├──Society Sunlit Valley Chinese Localization.zip
-     └──Minecraft-Mod-Language-Modpack-1-20.zip
+  └──minecraft
+     └──resourcepacks
+        ├──Society Sunlit Cobblemon Chinese Localization.zip
+        ├──Society Sunlit Valley Chinese Localization.zip
+        └──Minecraft-Mod-Language-Modpack-1-20.zip
   </code></pre>
   </details>
 - 需要同时安装阳光谷中文本地化资源包，且务必将阳光方可梦汉化置于最上方！！！
