@@ -45,6 +45,15 @@
   "sunlit_cobblemon.regi.no_space": "组合是正确的，但这里似乎没有足够空旷的空间...",
   "sunlit_cobblemon.legendary_bell.too_low": "Placing the bell this low won't let it ring out...",
 
+  "sunlit_cobblemon.biodome_altar.success": "Something is coming...",
+  "sunlit_cobblemon.biodome_altar.red.building": "There needs to be more Structure here...",
+  "sunlit_cobblemon.biodome_altar.red.heat": "There needs to be more Heat here...",
+  "sunlit_cobblemon.biodome_altar.red.nature": "There needs to be more Natural Blocks here...",
+  "sunlit_cobblemon.biodome_altar.blue.building": "There needs to be more Structure here...",
+  "sunlit_cobblemon.biodome_altar.blue.nature": "There needs to be more Nature here...",
+  "sunlit_cobblemon.biodome_altar.blue.glass": "There needs to be more Glass here...",
+  "sunlit_cobblemon.biodome_altar.blue.wildlife": "There needs to be more Wildlife here...",
+ 
   "tooltip.sunlit_cobblemon.bag_item_limit": "道馆馆主每场对战只能使用 %s 个道具！",
   "tooltip.sunlit_cobblemon.nearby_shiny": "附近似乎有一只闪光的 %s",
   "tooltip.always.society.battery.0": "Used by an <ltcolor>c=ceb620;c=fff460;w=10;p=2;Electric</ltcolor> type Pokémon in an <ltcolor>c=EE1515;c=FFFFFF;w=5;p=2;Energy Pylon</ltcolor>",
@@ -144,6 +153,7 @@
   "tooltip.sunlit_cobblemon.fire_pledge.description": "这是见证你与火属性初始宝可梦之间深厚羁绊的信物",
   "tooltip.sunlit_cobblemon.grass_pledge.description": "这是见证你与草属性初始宝可梦之间深厚羁绊的信物",
   "tooltip.sunlit_cobblemon.water_pledge.description": "这是见证你与水属性初始宝可梦之间深厚羁绊的信物",
+  "tooltip.sunlit_cobblemon.magikarp_taiyaki.description": "You're not really sure how Magikarp made this...",
   "tooltip.sunlit_cobblemon.gachamon_capsule.description": "从预设池和奖励池中随机生成一只宝可梦",
   "tooltip.sunlit_cobblemon.gachamon_capsule.guaranteed": " 必定获得指定宝可梦",
   "tooltip.sunlit_cobblemon.gachamon_capsule.shiny_chance": "闪光几率：%s%%",
