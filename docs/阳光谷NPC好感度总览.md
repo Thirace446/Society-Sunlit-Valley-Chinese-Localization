@@ -25,18 +25,19 @@
 
 ## 好感度奖励里程碑
 
-好感累积达到 500 后(一次性)触发「满好感奖励」;持有对应技能书阶段时部分奖励会变化。满好感且达到 `trainer_lvl_8` 阶段后还有一次「神秘礼物」。**除满好感外无其他奖励档位**(中间 100~400 档只改变对话内容)。
+- 好感累积达到 500 后(一次性)触发「满好感奖励」;持有对应技能书阶段时部分奖励会变化。**除满好感外无其他奖励档位**(中间 100~400 档只改变对话内容)。
+- SSC专属 | 满好感且 训练家等级达到：大师级 后还有可以获得「神秘礼物」。
 
 ### 满好感奖励 (好感 = 500)
 
-| NPC | 奖励 | 其他奖励 |
+| NPC | 奖励 | 持有对应技能书时可获得的奖励 |
 | --- | --- | --- |
-| banker (凯若琳 · 银行家) | 向艺术跋涉 (技能书) | 如已学会此技能,改为赠送 2× 传送石碑 `waystones:waystone` |
-| market (里昂 · 市场商人) | 通用耕作方法 (技能书) | 如已学会此技能,改为赠送 16× 火花豆种子 `society:sparkpod_seed` |
-| librarian (维罗妮卡 · 图书管理员) | 债务洞穴 (技能书) | 如已学会此技能,改为赠送 女王之魅 `botania:diva_charm` + 魔力之戒 `botania:mana_ring` |
+| banker (凯若琳 · 银行家) | 向艺术跋涉 (技能书) | 2× 传送石碑 `waystones:waystone` |
+| market (里昂 · 市场商人) | 通用耕种方法 (技能书) | 16× 火花豆种子 `society:sparkpod_seed` |
+| librarian (维罗妮卡 · 图书管理员) | 债务洞穴 (技能书) | 女王之魅 `botania:diva_charm` + 魔力之戒 `botania:mana_ring` |
 | trader (卡洛斯 · 交易商) | 解锁服装店 |
 | blacksmith (艾登 · 铁匠) | 艾登之锤 `justhammers:iron_hammer` 效率 V 时运 III |
-| carpenter (艾斯 · 木匠) | 破旧蓝图:Blockapedia `portable_blueprints:worn_blueprint` |
+| carpenter (艾斯 · 木匠) | 建筑蓝图 - 方块百科 `portable_blueprints:worn_blueprint` |
 | fisher (春奈 · 渔夫) | 海王之心 `society:heart_of_neptunium` |
 | shepherd (玛利亚 · 牧羊人) | 2× 企鹅刷怪蛋 `wildernature:penguin_spawn_egg` |
 | witch (伊芙琳 · 女巫) | 自动抚摸器 `society:auto_petter` |
@@ -124,8 +125,8 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 海泡菜汁 | `crabbersdelight:sea_pickle_juice` |
 | 熔岩河豚 / 眼球鱼 | `netherdepthsupgrade:lava_pufferfish` / `netherdepthsupgrade:eyeball_fish` |
 | 河豚 | `minecraft:pufferfish` |
-| 秽莓 | `autumnity:foul_berries` |
-| 蛋黄酱系列(如 至尊蛋黄酱) | `society:*_mayonnaise` (如 `society:supreme_mayonnaise`) |
+| 污秽浆果 | `autumnity:foul_berries` |
+| 任意蛋黄酱 | `#mayonnaise` |
 | 诡异菌 / 绯红菌 | `minecraft:warped_fungus` / `minecraft:crimson_fungus` |
 | 椰子油 | `society:coconut_oil` |
 | 烂番茄 | `farmersdelight:rotten_tomato` |
@@ -191,7 +192,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | --- | --- |
 | 传奇墨水 | `society:legendary_ink` |
 | 野牛角 | `wildernature:bison_horn` |
-| 公爵最爱的菜品 | `candlelight:beef_wellington` |
+| 惠灵顿牛排 | `candlelight:beef_wellington` |
 | 风味山羊奶酪轮 | `society:aged_goat_cheese_block` |
 | 山羊奶酪轮 | `meadow:goat_cheese_block` |
 
@@ -222,7 +223,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 物品 | 注册名 |
 | --- | --- |
 | 能量滋补水 | `society:energy_drink` |
-| 糖果 | `supplementaries:candy` |
+| 荔枝糖 | `supplementaries:candy` |
 
 ### blacksmith (艾登 · 铁匠)
 
@@ -241,7 +242,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 物品 | 注册名 |
 | --- | --- |
 | 任意花 | `#minecraft:flowers` |
-| 任意原材料 | `#forge:raw_materials` |
+| 任意粗矿 | `#forge:raw_materials` |
 | 榛子 | `pamhc2trees:hazelnutitem` |
 | 烤榛子 | `pamhc2trees:roastedhazelnutitem` |
 
@@ -253,7 +254,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 
 | 物品 | 注册名 |
 | --- | --- |
-| 任意游戏光盘 | `#gamediscs:game_discs` |
+| 任意游戏光碟 | `#gamediscs:game_discs` |
 | 蒸汽装置 | `society:steamy_gadget` |
 | 苔藓莓沙拉 | `society:mossberry_stew` |
 | 沉重核心 | `trials:heavy_core` |
@@ -299,7 +300,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 回响碎片 | `minecraft:echo_shard` |
 | 化石蛤蜊 | `crittersandcompanions:clam` |
 | 黑莲花 | `botania:black_lotus` |
-| 任意饰纹陶罐碎片 | `#minecraft:decorated_pot_sherds` |
+| 任意纹样陶片 | `#minecraft:decorated_pot_sherds` |
 
 #### 一般: 无
 
@@ -321,7 +322,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 故障 VHS | `society:glitched_vhs` |
 | 远古羽毛 | `windswept:elder_feather` |
 | 拿铁 | `society:latte` |
-| 土烟烟盒 | `society:tubasmoke_carton` |
+| 盒装土烟 | `society:tubasmoke_carton` |
 | 上古夜曲 | `society:ancient_vespertine` |
 
 #### 喜欢 (liked) +25 好感度
@@ -382,7 +383,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 物品 | 注册名 |
 | --- | --- |
 | 土烟 | `society:tubasmoke_stick` |
-| 土烟烟盒 | `society:tubasmoke_carton` |
+| 盒装土烟 | `society:tubasmoke_carton` |
 
 ### witch (伊芙琳 · 女巫)
 
