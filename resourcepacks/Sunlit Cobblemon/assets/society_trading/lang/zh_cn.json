@@ -148,10 +148,10 @@
   "jei.society_trading.trainer_lvl_8": "训练家等级达到：大师级",
   "jei.society_trading.trainer_lvl_9": "训练家等级达到：？？？",
 
-  "jei.society_trading.banker_mystery_gift": "Max trainer lvl/♥ w/ Banker",
-  "jei.society_trading.blacksmith_mystery_gift": "Max trainer lvl/♥ w/ Blacksmith",
-  "jei.society_trading.carpenter_mystery_gift": "Max trainer lvl/♥ w/ Carpenter",
-  "jei.society_trading.fisher_mystery_gift": "Max trainer lvl/♥ w/ Fisher",
-  "jei.society_trading.market_mystery_gift": "Max trainer lvl/♥ w/ Market",
-  "jei.society_trading.shepherd_mystery_gift": "Max trainer lvl/♥ w/ Shepherd"
+  "jei.society_trading.banker_mystery_gift": "-Max trainer lvl/♥ w/ Banker",
+  "jei.society_trading.blacksmith_mystery_gift": "-Max trainer lvl/♥ w/ Blacksmith",
+  "jei.society_trading.carpenter_mystery_gift": "-Max trainer lvl/♥ w/ Carpenter",
+  "jei.society_trading.fisher_mystery_gift": "-Max trainer lvl/♥ w/ Fisher",
+  "jei.society_trading.market_mystery_gift": "-Max trainer lvl/♥ w/ Market",
+  "jei.society_trading.shepherd_mystery_gift": "-Max trainer lvl/♥ w/ Shepherd"
 }

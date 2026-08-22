@@ -1,16 +1,49 @@
 ^^^
-## Cozy Cafe
-### v4.1.4
+## Sunlit Cobblemon
+### v1.1.0-SSV4.1.3
 ^^^
 --- 
-- 完整更新日志请将游戏语言切换为英语
-- 新增货币重绘材质包包（感谢 Jamiscus！）
-- 修复随机品质方块不掉落的问题
-- 修复制作带有品质的食物时粒子效果永不停止的问题
-- 修复伪装方块附属导致的崩溃问题
-- 修复按住shift购买物品会一直买到背包满为止的问题
+- Added unique obtaining mechanics for the following legendary pokemon: Kyogre, Groudon, Rayquaza, Lugia, Ho-Oh, Dialga, Palkia, Giratina, Latias, Latios, Mewtwo, Reshiram, Zekrom, Kyurem, Kubfu, Urshifu, Darkrai, Pecharunt, Shaymin, Shaymin Sky, Mew, Deoxys.
+- Added item/blocks associated for the above, too many to list
+- Added backported mons: Pancham, Pangoro, Wurmple, Cherubi, Cherrim,  Rolycoly, Carkol, Coalossal,  Silcoon, Beautifly, Cascoon, Dustox, Audino, Alolan Sandshrew, Alolan Sandlash, Seviper, Zangoose
+- Added Sword Ball - 0.5x to 4x, increases by target's combined attack stats
+- Added Shield Ball - 0.5x to 4x, increases by target's combined defence stats
+- Added Skull Ball - 3.5x in the Skull Cavern
+- Added Mana Ball - 3.5x catch rate
+- Added Prismatic ball - 4.5× on Shiny Pokémon, 3x otherwise
+- Added Blossom Ball - 0.5x, caught Pokémon become Shiny
+- Added backported Cobblemon held Items: Grip Claw, Lagging Tail, Luminous Moss, Metronome, Protective Pads, Punching Glove, Room Service, Scope Lens, Shed Shell, Terrain Extender, Throat Spray, Utility Umbrella, Wide Lens, Zoom Lens
+- Added Crystal Ball, a pokemon workstation for **Psychic** types that increases chances of nearby workstations
+- Added Energy Pylon a pokemon workstation for **Electric** increases speed of nearby workstations using batteries
+- Added use for Endless Battery
+- Added Spectral Battery
+- Added Uncharged Battery
+- Added hover to Cobblemon Farmer's workstation GUIs showing effective stats
+- Added hover to workstation GUIs showing effective stats
+- Added admin command cobblemonfarmerssetowner to override existing owner
+- Added unique spawn mechanics for Paradox pokemon and removed paradox gachamon capsule
+- Added shiny effect for ranching station: Double chances on forage drops & double magic shear rolls.
+- Added 108 pokemon as ridable and fixed some broken ones
+- Added ability to declare a Gym Leader type for the Trainer Podium using badges, allowing for greater rewards.
+- Added TR Tablets for crafting specific TRs
+- Added Elite Stone for unlocking a higher level of difficulty on the Trainer Podium. Legendary/Mythical Pokemon are allowed to be used by both gym leader and trainers in this mode only
+- Reworked trainer podium yet again:
+	-  Trainer podium still scales based on team level
+	-  No more win streaks. Instead the podium will keep track of total wins, and League bosses will appear every 15 wins
+	- Every 10 of wins you’ll get an item from the special pool dropped. Every 100 you’ll get one from a rare pool
+	- No penalty for losing outside of the normal loss fee 
+- Reworked Gardening Station dark types: Experience dropped no longer based off of nearby Pokemon defeated. Instead, a static amount of XS candies are always dropped, and at 5+ radii it turns into S. (Old system encouraged spawning a bunch of entities around its working area
+- Rebalanced some ranches and added new items to ranching, too many changes to list
+- Improved EMI support in Cobblemon Farmers, with hover showing effective stats
+- Increased prices of Sun Offering stat increase items
+- Fixed certain gachamon capusles not spawning pokemonts
+- Fixed aspects not showing up in rendered pokemon
+- Fixed Fairy types in Gardening Stations always dropping minimums in ranges (you'll get your Slowpoke tails now you sadist)
+- Fixed Crabappale logs not being fightable
+- Fixed some issues with ghost gachamon capsules
+- Fixed Wailmer/Wailord crashes probably
 
-## 4.1.0
+## Sunlit Valleu 4.1.0 - Cozy Cafe
 - 新增温馨咖啡厅，一个为该整合包打造的全新模组，添加了类似 Diner Dash/Plate Up! 风格的咖啡厅经营小游戏
 - 新增村民职业：交易商、女巫以及图书管理员（原储物匠）
 - 新增建筑商店系统（原任务书），使用建材购买建筑
@@ -120,26 +153,20 @@
 - 修复葡萄藤杆/格架在 Jade 中不显示天数计数的问题
 - 修复肥料对浆果丛不生效但在 Jade 中显示生效的问题
 
-## v4.1.3
+## 4.1.3
+- 完整更新日志请将游戏语言切换为英语
 - 添加了由 beawitched 制作的松果镇村民建筑套装
 - 添加 DeepA粘糕
-- 添加 柠檬甜甜圈
-- 添加 可疑的奶茶
-- 添加 上古建筑师工具
-- 添加 红色扳手
-- 为共享账户添加了溢出令牌支持 (请重新配置银行卡以更新)
-- 将地晶的交易配方改为使用棉花而不是稻米
+- 添加柠檬甜甜圈
+- 添加可疑的奶茶
+- 添加上古建筑师工具文物
+- 将地晶的交易配方改为棉花而不是稻米
 - 将翡翠的交易配方改为使用柠檬干而不是神盾葡萄酒
-- 同时存在多个排行榜时只获取一次数据（而不是每个排行榜各获取一次），缓解了对大型服务器的性能影响。
 - 将金币排行榜的高度增加了 1/4 方块，使其显示不再容易模糊
 - 更新 Quality Food 模组，包含各种品质物品修复
 - 移除用邪火面具伪装某些实体的能力，因为它会导致与禁人书一样的区块封禁漏洞
-- 更新简体中文翻译（感谢 Thirace！）
-- 更新韩语翻译（感谢 Hexagreen！）
-- 修复共享账户在金币排行榜上的显示问题 (请重新配置银行卡以更新) (感谢 ManlyTorch！)
-- 修复史莱姆傀儡和水獭生成的的太多且不会正常消失的的问题。
+- 修复共享账户在金币排行榜上的显示问题
 - 修复部分蘑菇树桩掉落红色蘑菇菌落而非棕色蘑菇菌落的问题
 - 修复樱花建筑套装存在的问题
-- 修复侏儒在地图上还是显示为原版村民的问题
 - 修复秋季夜晚无法钓到黑鲈的问题
 - 通过降低 EMI 版本来修复无法按方块标签搜索的问题
