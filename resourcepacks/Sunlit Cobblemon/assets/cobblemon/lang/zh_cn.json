@@ -1,4 +1,23 @@
 {
     "item.cobblemon.lure_ball.tooltip": "若目标为水属性，捕获率x2",
-    "item.cobblemon.repeat_ball.tooltip": "捕获率x1（尚未实装）"
+    "item.cobblemon.repeat_ball.tooltip": "捕获率x1（尚未实装）",
+    
+    "item.cobblemon.booster_energy": "Booster Energy",
+    "item.cobblemon.booster_energy.tooltip_1": "Raises the power of Pokémon with the Protosynthesis or Quark Drive abilities.",
+    "item.cobblemon.booster_energy.tooltip_2": "Consumed upon use.",
+    "item.cobblemon.soul_dew": "Soul Dew",
+    "item.cobblemon.soul_dew.tooltip_1": "Raises the power of Latios and Latias's Psychic- or Dragon-type moves.",
+    "item.cobblemon.clear_amulet.tooltip": "While held, the holder's stats cannot be lowered by an opponent's moves or abilities.",
+    "item.cobblemon.sword_ball": "Sword Ball",
+    "item.cobblemon.sword_ball.tooltip": "Catch rate scales 0.5–4x with the sum of the Pokémon's Attack and Special Attack.",
+    "item.cobblemon.shield_ball": "Shield Ball",
+    "item.cobblemon.shield_ball.tooltip": "Catch rate scales 0.5–4x with the sum of the Pokémon's Defense and Special Defense.",
+    "item.cobblemon.skull_ball": "Skull Ball",
+    "item.cobblemon.skull_ball.tooltip": "3.5x catch rate in the Skull Cavern.",
+    "item.cobblemon.mana_ball": "Mana Ball",
+    "item.cobblemon.mana_ball.tooltip": "3.5x catch rate.",
+    "item.cobblemon.blossom_ball": "Blossom Ball",
+    "item.cobblemon.blossom_ball.tooltip": "0.5x catch rate. Caught Pokémon become Shiny.",
+    "item.cobblemon.prismatic_ball": "Prismatic Ball",
+    "item.cobblemon.prismatic_ball.tooltip": "4.5x catch rate against Shiny Pokémon. 3x catch rate against all other Pokémon."
 }
