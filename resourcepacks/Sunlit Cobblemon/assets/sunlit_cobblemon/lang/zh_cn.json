@@ -641,6 +641,7 @@
   "item.sunlit_cobblemon.vivichoke_preserves": "活力蕾果酱",
   "item.sunlit_cobblemon.water_pledge": "水之誓约",
   "item.sunlit_cobblemon.wormhole_generator": "究极之洞发生器",
+  "item.sunlit_cobblemon.permafrost_drop": "急冻珠",
   "item.sunlit_cobblemon.duo_challenge_podium": "",
   "item.sunlit_cobblemon.elite_stone": "",
   "item.sunlit_cobblemon.magikarp_taiyaki": "",
@@ -682,7 +683,5 @@
 
   "wood_type.cobblemon.apricorn": "球果树",
 
-  "leaves_type.cobblemon.apricorn": "球果树叶",
-
-  "item.sunlit_cobblemon.permafrost_drop": "急冻珠"
+  "leaves_type.cobblemon.apricorn": "球果树叶"
 }
