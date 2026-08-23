@@ -44,6 +44,7 @@
   "sunlit_cobblemon.loss.fee": "● §c%s§7 已支付给胜者...",
   "sunlit_cobblemon.regi.fail": "顺序似乎不对...",
   "sunlit_cobblemon.regi.no_space": "组合是正确的，但这里似乎没有足够空旷的空间...",
+  "sunlit_cobblemon.nightmare": "You shouldn't sleep, you feel like something is watching you...",
   "sunlit_cobblemon.legendary_bell.too_low": "Placing the bell this low won't let it ring out...",
 
   "sunlit_cobblemon.biodome_altar.success": "Something is coming...",
@@ -76,11 +77,13 @@
   "tooltip.always.sunlit_cobblemon.viral_battery.1": "Evolves Deoxys into Speed form",
   "tooltip.sunlit_cobblemon.viral_battery.0": "Bonus Speed: <ltcolor>c=55FF55;+1.8x</ltcolor>",
   "tooltip.sunlit_cobblemon.viral_battery.1": "Consume Chance: <ltcolor>c=EE1515;5%%</ltcolor>",
+  "tooltip.sunlit_cobblemon.dark_scale.description": "Use it with Controlled Lightning in a Rod!",
+  "tooltip.sunlit_cobblemon.light_scale.description": "Use it with Fire in a Brazier!",
+  "tooltip.sunlit_cobblemon.bifrost_stone.description": "May cause destruction nearby when fed to an ancient Mammoth!",
 
 
   "sunlit_cobblemon.trainer_podium.label": "§a%s§r§7 的训练家平台",
   "sunlit_cobblemon.trainer_podium.label.elite": "§a%s's§r§4 Elite§7 Trainer Podium",
-  "sunlit_cobblemon.trainer_podium.wins": "§7Gym Trainer Wins:§r §6%s",
   "sunlit_cobblemon.trainer_podium.tier": "§7训练家阶位：§r §6%s",
   "sunlit_cobblemon.trainer_podium.not_league_legal": "不符合联盟参赛规则！",
   "sunlit_cobblemon.trainer_podium.elite": "Elite!",
@@ -93,7 +96,6 @@
   "sunlit_cobblemon.trainer_podium.too_low": "该训练家等级过低！你的队伍平均等级需为 %s。",
   "sunlit_cobblemon.trainer_podium.not_your_gym": "你不能在别人的道馆挑战训练家！",
   "sunlit_cobblemon.raid_statue.summary": "阶段：%s | 宝可梦：%s | 团战等级：%s | 等级：%s | 闪光概率：%s | 隐藏特性概率：%s",
-  "sunlit_cobblemon.trainer_podium.win_streak": "你的道馆连胜记录现为 %s 场",
 
   "curios.identifier.gym_badge": "Gym Badge",
 
@@ -496,8 +498,10 @@
   "sunlit_cobblemon.skills.trainer_level.prismatic": "大师级",
   "sunlit_cobblemon.skills.trainer_level.prismatic.description": "§9友好商店出售神秘礼物§7\n友好商店出售大师浮标\n§6解锁阳光团战新祭礼§r\n§d+6 个工作槽位",
   "sunlit_cobblemon.trainer_podium.streak": "当前连胜：%s",
-  "sunlit_cobblemon.trainer_podium.win_streak_upgraded": "你的道馆连胜记录现为 %s 场！奖金额度提升至 x%s，难度同步增加！",
-  "sunlit_cobblemon.trainer_podium.win_streak_lost": "你的 §6%s §c连胜被打破了...",
+  "sunlit_cobblemon.trainer_podium.wins": "§7Gym Trainer Wins:§r §6%s",
+  "sunlit_cobblemon.trainer_podium.wins_upgraded": "你的道馆连胜记录现为 %s 场！奖金额度提升至 x%s，难度同步增加！",
+  "sunlit_cobblemon.trainer_podium.wins_lost": "你的 §6%s §c连胜被打破了...",
+  "sunlit_cobblemon.trainer_podium.win_increased": "你的道馆连胜记录现为 %s 场",
 
   "block.sunlit_cobblemon.great_loot_ball": "超级战利品球",
   "block.sunlit_cobblemon.ultra_loot_ball": "高级战利品球",

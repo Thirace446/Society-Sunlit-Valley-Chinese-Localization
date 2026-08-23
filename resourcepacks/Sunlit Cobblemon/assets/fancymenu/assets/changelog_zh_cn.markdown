@@ -1,47 +1,59 @@
 ^^^
 ## Sunlit Cobblemon
-### v1.1.0-SSV4.1.5
+### v1.1.2-SSV4.1.4
 ^^^
 --- 
-- Added unique obtaining mechanics for the following legendary pokemon: Kyogre, Groudon, Rayquaza, Lugia, Ho-Oh, Dialga, Palkia, Giratina, Latias, Latios, Mewtwo, Reshiram, Zekrom, Kyurem, Kubfu, Urshifu, Darkrai, Pecharunt, Shaymin, Shaymin Sky, Mew, Deoxys.
+- Updated to Sunlit Valley's Cozy Cafe update
+- Added unique obtaining mechanics for the following legendary pokemon: Kyogre, Groudon, Rayquaza, Lugia, Ho-Oh, Dialga, Palkia, Giratina, Latias, Latios, Reshiram, Zekrom, Kyurem, Kubfu, Urshifu, Darkrai, Pecharunt, Shaymin, Shaymin Sky, Mew, Mewtwo, Deoxys.
 - Added item/blocks associated for the above, too many to list
 - Added backported mons: Pancham, Pangoro, Wurmple, Cherubi, Cherrim,  Rolycoly, Carkol, Coalossal,  Silcoon, Beautifly, Cascoon, Dustox, Audino, Alolan Sandshrew, Alolan Sandlash, Seviper, Zangoose
 - Added Sword Ball - 0.5x to 4x, increases by target's combined attack stats
-- Added Shield Ball - 0.5x to 4x, increases by target's combined defence stats
+- Added Shield Ball - 0.5x to 4x, increases by target's combined defense stats
 - Added Skull Ball - 3.5x in the Skull Cavern
 - Added Mana Ball - 3.5x catch rate
 - Added Prismatic ball - 4.5× on Shiny Pokémon, 3x otherwise
 - Added Blossom Ball - 0.5x, caught Pokémon become Shiny
-- Added backported Cobblemon held Items: Grip Claw, Lagging Tail, Luminous Moss, Metronome, Protective Pads, Punching Glove, Room Service, Scope Lens, Shed Shell, Terrain Extender, Throat Spray, Utility Umbrella, Wide Lens, Zoom Lens
+- Added backported Cobblemon held Items: Grip Claw, Lagging Tail, Luminous Moss, Metronome, Protective Pads, Punching Glove, Room Service, Scope Lens, Shed Shell, Terrain Extender, Throat Spray, Utility Umbrella, Wide Lens, Zoom Lens, Psychic Seed, Electric Seed, Grassy Seed, Clear Amulet
 - Added Crystal Ball, a pokemon workstation for **Psychic** types that increases chances of nearby workstations
 - Added Energy Pylon a pokemon workstation for **Electric** increases speed of nearby workstations using batteries
 - Added use for Endless Battery
 - Added Spectral Battery
-- Added Uncharged Battery
+- Added Viral Battery
+- Added Booster Energy
+- Added Soul Dew
+- Added Magikarp Taiyaki
 - Added hover to Cobblemon Farmer's workstation GUIs showing effective stats
 - Added hover to workstation GUIs showing effective stats
 - Added admin command cobblemonfarmerssetowner to override existing owner
-- Added unique spawn mechanics for Paradox pokemon and removed paradox gachamon capsule
+- Added unique spawn mechanics for Paradox Pokémon and removed paradox gachamon capsule
 - Added shiny effect for ranching station: Double chances on forage drops & double magic shear rolls.
-- Added 108 pokemon as ridable and fixed some broken ones
-- Added ability to declare a Gym Leader type for the Trainer Podium using badges, allowing for greater rewards.
+- Added some cobblemon specific tips
+- Added unique spawns to Snowy Scrubland, Desert Fault, Frozen Caves, and Sulfur Caves biomes
 - Added TR Tablets for crafting specific TRs
-- Added Elite Stone for unlocking a higher level of difficulty on the Trainer Podium. Legendary/Mythical Pokemon are allowed to be used by both gym leader and trainers in this mode only
+- Added ability to declare a Gym Leader type for the Trainer Podium using badges, allowing for greater rewards.
+- Added Elite Stone for unlocking a higher level of difficulty on the Trainer Podium. Legendary/Mythical Pokémon are allowed to be used by both gym leader and trainers in this mode only
 - Reworked trainer podium yet again:
-	-  Trainer podium still scales based on team level
-	-  No more win streaks. Instead the podium will keep track of total wins, and League bosses will appear every 15 wins
-	- Every 10 of wins you’ll get an item from the special pool dropped. Every 100 you’ll get one from a rare pool
-	- No penalty for losing outside of the normal loss fee 
-- Reworked Gardening Station dark types: Experience dropped no longer based off of nearby Pokemon defeated. Instead, a static amount of XS candies are always dropped, and at 5+ radii it turns into S. (Old system encouraged spawning a bunch of entities around its working area
+  - Trainer podium still scales based on team level
+  - No more win streaks. Instead the podium will keep track of total wins, and League bosses will appear every 15 wins
+  - Every 10 of wins you’ll get an item from the special pool dropped. Every 100 you’ll get one from a rare pool
+  - No penalty for losing outside of the normal loss fee 
+- Reworked Gardening Station dark types: Experience dropped no longer based off of nearby Pokémon defeated. Instead, a static amount of XS candies are always dropped, and at 5+ radii it turns into S. (Old system encouraged spawning a bunch of entities around its working area)
 - Rebalanced some ranches and added new items to ranching, too many changes to list
 - Improved EMI support in Cobblemon Farmers, with hover showing effective stats
 - Increased prices of Sun Offering stat increase items
-- Fixed certain gachamon capusles not spawning pokemonts
-- Fixed aspects not showing up in rendered pokemon
+- Fixed certain Gachamon Capusles not spawning Pokémon
+- Fixed aspects not showing up in rendered Pokémon
 - Fixed Fairy types in Gardening Stations always dropping minimums in ranges (you'll get your Slowpoke tails now you sadist)
-- Fixed Crabappale logs not being fightable
+- Fixed Crabapple logs not being fightable
 - Fixed some issues with ghost gachamon capsules
+- Fixed Electric Canvas being a farmer product instead of artisan
+- Fixed some radar texures
 - Fixed Wailmer/Wailord crashes probably
+- Fixed more max/z-move TM/TRs existing
+
+## 1.1.1
+- Fixed interacting with mobs with an item voiding them
+- Fixed trainer reward giving removed capsule
 
 ## Sunlit Valleu 4.1.0 - Cozy Cafe
 - 新增温馨咖啡厅，一个为该整合包打造的全新模组，添加了类似 Diner Dash/Plate Up! 风格的咖啡厅经营小游戏
