@@ -119,6 +119,7 @@
   "tooltip.unimplemented_items.repel.description": "阻止宝可梦生成，即使附近有人佩戴了西尔佛检视镜。",
 
   "block.sunlit_cobblemon.time_frame.description": "Can bring out Pokémon from the past and present using a Booster Energy. Construct the frame like an Ancient City would.",
+  "block.sunlit_cobblemon.time_frame.bottom": "This will only work at the bottom center of the frame...",
 
   "tooltip.sunlit_cobblemon.silph_scope.description": "让宝可梦能够在你的附近自然生成",
   "tooltip.sunlit_cobblemon.silph_scope.equip": "右键使用以装备！",
@@ -161,7 +162,7 @@
   "tooltip.sunlit_cobblemon.gem_box.description": "它散发出一种令人不安的气息。似乎每一面都有放置宝石的凹槽",
   "tooltip.sunlit_cobblemon.corrupted_clock.description": "一个时间本身的扭曲。在晨曦照耀骷髅矿洞之前紧紧抓住它吧...",
   "tooltip.sunlit_cobblemon.liquid_pale.description": "从塞勒涅得到可以供奉圣杯的饮品",
-  "tooltip.sunlit_cobblemon.liquid_antimatter.description": "从塞勒涅得到的饮品...?",
+  "tooltip.sunlit_cobblemon.liquid_antimatter.description": "A drink from Selene distorted by your time and space...",
   "tooltip.sunlit_cobblemon.tabula_rasa.description": "盒子背面雕刻着数字“7”的图案...",
   "tooltip.sunlit_cobblemon.mystica_nectar.description": "据说将其穿戴在护符栏位时，能够吸引到强大的传说之鸟。",
   "tooltip.sunlit_cobblemon.rainbow_steam.description": "据说将其穿戴在护符栏位时，能够吸引到自然力量的化身",

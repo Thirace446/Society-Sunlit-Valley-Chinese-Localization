@@ -1,6 +1,6 @@
 ^^^
 ## Sunlit Cobblemon
-### v1.1.2-SSV4.1.4
+### v1.1.3-SSV4.1.4
 ^^^
 --- 
 - Updated to Sunlit Valley's Cozy Cafe update
@@ -54,6 +54,28 @@
 ## 1.1.1
 - Fixed interacting with mobs with an item voiding them
 - Fixed trainer reward giving removed capsule
+
+# 1.1.2
+- Added doubles VGC formats sun, moon, and stars to /showdown challenge
+- Added renewable recipe for Pale Chalice
+- Added better hinting for liquid antimatter
+- Increased chance of Pristine type gems dropping from trainer badges
+- Increased chance of the Clear/Tidal Bell ringing (2.5% -> 5%)
+- Increased Primsatic Shard fortune telling consume chance 15% -> 50%
+- Reduced cost of Blossom Ball: Replaced Blooming Ring/Cornucopia Greed with Mew-N-DNA
+- Fixed trainer podium wins not progressing
+- Fixed charging rod/brazier interactions
+- Fixed some unnecessary logging
+- Fixed issues with nightmare effect not working
+- Fixed creation trio not having same non-raid level
+- Fixed tooltips of the Tao trilogy items
+- Fixed Liquid Pale/Antimatter not dropping
+- Fixed softlock with duo challenge podium
+- Fixed pokedex and related crashes
+- Fixed backpack item render
+- Fixed various issues with the Cobblemon Farmers GUIs
+- Fixed Crystalarium not producing pristine Sunlit Cobblemon items
+- Fixed Duo Challenge Podium starting off with the hard trainers
 
 ## Sunlit Valleu 4.1.0 - Cozy Cafe
 - 新增温馨咖啡厅，一个为该整合包打造的全新模组，添加了类似 Diner Dash/Plate Up! 风格的咖啡厅经营小游戏
