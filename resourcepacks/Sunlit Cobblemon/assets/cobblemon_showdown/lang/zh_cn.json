@@ -9,7 +9,7 @@
   "cobblemon_showdown.battle.time_warn_total": "警告：总时间剩余 %s秒！",
   "cobblemon_showdown.battle.time_warn_turn": "警告：回合时间剩余 %s秒！",
   "cobblemon_showdown.battle_hud.timer.you": "你",
-  "cobblemon_showdown.battle_hud.timer.line": "%1$s  %2$s / %3$s[EN]",
+  "cobblemon_showdown.battle_hud.timer.line": "%1$s  %2$s / %3$s",
   "cobblemon_showdown.battle_spectate.disabled": "此场对战禁用观战功能",
   "cobblemon_showdown.battle_spectate.self": "你无法观战自己的对战",
   "cobblemon_showdown.battle_spectate.ended_battle": "此场对战已经结束",
@@ -86,7 +86,7 @@
   "cobblemon_showdown.showdown_battle.setup.already_inB": "%s 已经处于对战中了！",
   "cobblemon_showdown.showdown_battle.setup.not_met_requirement": "你的队伍不符合规则要求：",
   "cobblemon_showdown.showdown_battle.setup.canceled": "对战已取消 - %s 的队伍无效",
-  "cobblemon_showdown.showdown_battle.setup.format_misconfigured": "Format '%s' is misconfigured (party size is smaller than active slots). Edit the format JSON to fix.",
+  "cobblemon_showdown.showdown_battle.setup.format_misconfigured": "规则“ %s ”配置有误（队伍规模小于启用槽位数量）。请编辑规则 JSON 以修复。",
   "cobblemon_showdown.showdown_battle.setup.message": "%s局胜负制对战开始！",
   "cobblemon_showdown.showdown_battle.selection": "为对战选择 %s 只宝可梦",
   "cobblemon_showdown.showdown_battle.series.not_met_requirement": "你的队伍不符合规则要求！",
@@ -353,7 +353,7 @@
   "tooltip.cobblemon_showdown.party_learner.already_knows": "已经学会: %s",
   "tooltip.cobblemon_showdown.party_learner.cannot_learn": "无法学习: %s",
   "tooltip.cobblemon_showdown.party_learner.nobody": "队伍中没有宝可梦",
-  "tooltip.cobblemon_showdown.party_learner.loading": "Loading party learners...[EN]",
+  "tooltip.cobblemon_showdown.party_learner.loading": "正在加载同行宝可梦的招式学习情况...",
 
   "cobblemon_showdown.time.second": "%s秒",
 
