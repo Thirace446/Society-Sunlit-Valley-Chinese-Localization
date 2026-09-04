@@ -761,6 +761,7 @@
   "block.society.villager_home.type": "召唤 %s",
   "block.society.villager_home.description": "将村民传送到你的城镇，并将附近区域设定为他们的家。 \n不能放置在其他村民附近。",
   "block.society.fish_pond_manager.description": "每天早上 7 点管理鱼塘任务",
+  "block.society.fish_pond_manager.clipboard": "使用剪切板右键鱼塘管理器以获取任务需求物品信息",
   "block.society.caterpillar_box.description": "每 5 分钟孵化一次放入其中的虫卵。飞蛾和蝴蝶会从蝴蝶孵化器顶部飞出。",
 
   "item.society.froggy_helm.description": "里面有一根大舌头",
