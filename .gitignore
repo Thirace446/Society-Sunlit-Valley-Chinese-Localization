@@ -1,11 +1,22 @@
-patchouli_books/almanac/en_us
-patchouli_books/almanac/book.json
-patchouli_books/fish_finder/en_us
-patchouli_books/fish_finder/book.json
-resourcepacks/Sunlit Valley/assets/dialog/lang/update
-resourcepacks/Sunlit Valley/assets/portable_blueprints/lang/building_shop_generated.json
-resourcepacks/Sunlit Valley/assets/society_trading/lang/building_shop_generated.json
-resourcepacks/Sunlit Valley/assets/numismatics/lang/new.json
-resourcepacks/Sunlit Cobblemon/assets/sunlit_cobblemon/lang/old.json
-resourcepacks/Sunlit Cobblemon/assets/cobblemon_farmers/lang/old.json
-resourcepacks/Sunlit Cobblemon/assets/cobblemon_showdown/lang/old.json
+*
+
+!docs/
+!docs/**
+
+!patchouli_books/
+!patchouli_books/**
+
+!resourcepacks/
+!resourcepacks/Sunlit Valley/
+!resourcepacks/*/assets/
+!resourcepacks/*/assets/*/
+!resourcepacks/*/assets/*/lang/
+
+!resourcepacks/*/assets/*/lang/zh_cn.json
+
+#dev
+!resourcepacks/*/assets/*/lang/en_us.json
+!resourcepacks/*/assets/*/lang/en_us_template.json
+!resourcepacks/*/assets/*/lang/building_shop_generated.json
+!resourcepacks/*/assets/*/lang/old.json
+!resourcepacks/*/assets/*/lang/new.json
