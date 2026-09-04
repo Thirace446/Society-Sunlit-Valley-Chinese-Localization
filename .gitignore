@@ -7,7 +7,7 @@
 !patchouli_books/**
 
 !resourcepacks/
-!resourcepacks/*/
+!resourcepacks/Sunlit Valley/
 !resourcepacks/*/assets/
 !resourcepacks/*/assets/*/
 !resourcepacks/*/assets/*/lang/
