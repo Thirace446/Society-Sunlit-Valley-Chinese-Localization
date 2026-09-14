@@ -1,7 +1,7 @@
 # Society-Sunlit-Valley-Chinese-Localization
 # 社会：阳光谷 中文本地化
 
-- **本仓库用于存放 Society 系列整合包的自定义内容及其使用到模组的中文翻译**
+- **本仓库用于存放 Society 系列整合包添加的自定义内容及其使用到模组的中文翻译**
 - https://github.com/Thirace446/Society-Sunlit-Valley-Chinese-Localization
   - 阳光谷开发组从3.0版本就开始跟进本地化需求，目前已于4.0.5版本将所有文本处理为翻译键，无需第三方开发者修改任何脚本，也不需要玩家覆盖任何文件即可完成汉化工作
   - 如有发现遗漏的翻译请反馈
@@ -40,19 +40,18 @@
 - 添加 5 个以上额外模组出现错误或崩溃问题请自行解决
 - 使用 模组+插件混合服务端 出现错误或崩溃问题请自行解决
 - 如果你无法将话题控制在与阳光谷有关的内容上请不要加群
-- 禁止发服务器广告(包括且不限于新服开荒，找游戏搭子)
 - 禁止拉踩玩法和流派
 
 
 ### 正在维护的汉化：
 #### Society: Sunlit Valley - by Thirace
-- 汉化最新的支持版本为：4.1.4
+- 汉化最新的支持版本为：4.1.5
 - 由于任务文本包括它的键一直在调整所以也不是完全向下支持
 - 4.1.0 dialog(NPC对话) 新增400条文本 共计1200条对话 校对暂未完成
 - 从 4.1.1 开始提供更新日志汉化支持 (新增)
 
 #### Society: Sunlit Cobblemon - by Thirace
-- 汉化最新的支持版本为：1.1.3
+- 汉化最新的支持版本为：1.1.4
 ---
 
 ## 汉化使用说明：
@@ -60,7 +59,7 @@
 - https://github.com/Thirace446/Society-Sunlit-Valley-Chinese-Localization
 - 并配合i18n汉化模组/材质包食用
 - https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod
-- https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+  - https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
 
 ### 详细说明：
 #### 阳光谷中文材质包
