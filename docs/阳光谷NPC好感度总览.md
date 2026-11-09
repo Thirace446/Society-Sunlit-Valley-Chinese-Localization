@@ -4,7 +4,6 @@
 - 其他来源: https://sunlitvalley.miraheze.org/wiki/Villagers
 - 数据版本：4.1.3 
 - 整理：Thirace
-- 阳光谷汉化官方反馈群：700510144
 
 ## 好感度变化
 
