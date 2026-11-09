@@ -1039,7 +1039,6 @@
   "ftbquests.chapter.iv__prismatic_farming.quest410784379F435E05.description2": "请注意，技能树中已包含的附魔等级上限已被调低！",
   "ftbquests.chapter.iv__prismatic_farming.quest41C453E806763C4F.description1": "去过骷髅洞穴后，就可以给&6交易商&r村民打电话了。",
   "ftbquests.chapter.iv__prismatic_farming.quest41C453E806763C4F.description2": "你需要提供各种农场物品才能在他那里他交换工匠机器升级插件。将这些插件安装到机器上时会增加特殊效果。",
-  "ftbquests.chapter.iv__prismatic_farming.quest41C453E806763C4F.description3": "还有一些实用的物资交易，可以换取像凋灵骷髅头颅这样有点用但很难获得的物品。",
   "ftbquests.chapter.iv__prismatic_farming.quest41C453E806763C4F.task.7493457486177475867.title": "任意工匠机器插件",
   "ftbquests.chapter.iv__prismatic_farming.quest41C453E806763C4F.title": "机器升级",
   "ftbquests.chapter.iv__prismatic_farming.quest42B424793E1E91D3.description1": "&6鱼塘篮子&r是由&d火花石&r驱动的机器，可以自动收集工作范围内&6鱼塘&r产出的物品！",
@@ -1658,5 +1657,9 @@
   "ftbquests.loot_table.8298743981735202683.title": "葡萄种子",
   "ftbquests.loot_table.8921602476353446055.title": "易物店",
   "ftbquests.loot_table.9002246533416223198.title": "工匠机器",
-  "ftbquests.loot_table.9032317954688779283.title": "图书馆"
+  "ftbquests.loot_table.9032317954688779283.title": "图书馆",
+
+
+
+  "ftbquests.chapter.iv__prismatic_farming.quest41C453E806763C4F.description3": "还有一些实用的物资交易，可以换取像凋灵骷髅头颅这样有点用但很难获得的物品。"
 }

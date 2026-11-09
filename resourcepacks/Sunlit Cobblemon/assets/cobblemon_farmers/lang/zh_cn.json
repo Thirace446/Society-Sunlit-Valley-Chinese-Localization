@@ -179,7 +179,7 @@
   "jei.cobblemon_farmers.energy_pylon.crafting_time": "时间: %ss",
   "jei.cobblemon_farmers.energy_pylon.speed_stat": "%s 影响时间",
   "jei.cobblemon_farmers.energy_pylon.aoe_stat": "%s 影响工作范围",
-  "jei.cobblemon_farmers.energy_pylon.bonus_speed": "提升概率: +%sx",
+  "jei.cobblemon_farmers.energy_pylon.bonus_speed": "提升速度: +%sx",
   "jei.cobblemon_farmers.energy_pylon.consume_chance": "消耗概率: %s",
 
   "emi.category.cobblemon_farmers.emi.craft_station": "属性加工",
