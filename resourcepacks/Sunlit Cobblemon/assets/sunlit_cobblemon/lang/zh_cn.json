@@ -91,7 +91,7 @@
   "sunlit_cobblemon.trainer_podium.need_to_defeat_before_moving": "请先击败该训练家，再移动平台！",
   "sunlit_cobblemon.trainer_podium.banned_mon": "联盟规定：禁止使用传说或幻之宝可梦...",
   "sunlit_cobblemon.trainer_podium.trainer_left": "由于道馆属性改变，道馆访客离开了！不过新的访客很快就会到来。",
-  "sunlit_cobblemon.trainer_podium.badge_restricts": "穿戴道馆训练家徽章意味着你只能使用该属性的宝可梦！",
+  "sunlit_cobblemon.trainer_podium.badge_restricts": "佩戴道馆徽章意味着你只能使用该属性的宝可梦！",
   "sunlit_cobblemon.trainer_podium.too_high": "该训练家等级过高！你的队伍平均等级需为 %s。",
   "sunlit_cobblemon.trainer_podium.too_low": "该训练家等级过低！你的队伍平均等级需为 %s。",
   "sunlit_cobblemon.trainer_podium.not_your_gym": "你不能在别人的道馆迎战训练家！",
