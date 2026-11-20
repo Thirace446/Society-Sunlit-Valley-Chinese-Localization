@@ -68,7 +68,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 乌龙茶 | `herbalbrews:oolong_tea` |
 | 阳光珍珠 | `society:sunlit_pearl` |
 | Jellie猫咪葡萄酒 | `vinery:jellie_wine` |
-| 侏儒 | `society:gnome` |
+| 矮人雕像 | `society:gnome` |
 | 灵魂茶 | `society:bowl_of_soul` |
 | 珍珠块 | `crabbersdelight:pearl_block` |
 
@@ -467,7 +467,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 
 | 物品 | 注册名 |
 | --- | --- |
-| 侏儒 | `society:gnome` |
+| 矮人雕像 | `society:gnome` |
 | 蜘蛛丝 | `society:spider_silk` |
 
 ## 特殊 NPC
