@@ -75,7 +75,7 @@
   "gui.numismatics.bank_terminal.sub_accounts.help.line.3": "子账户可用于向选定玩家提供",
   "gui.numismatics.bank_terminal.sub_accounts.help.line.4": "有限的访问权限，或启用更安全的",
   "gui.numismatics.bank_terminal.sub_accounts.help.line.5": "自动化交易。",
-  "gui.numismatics.bank_terminal.sub_accounts.help.line.6": "[KO]",
+  "gui.numismatics.bank_terminal.sub_accounts.help.line.6": "[EN]",
   "gui.numismatics.bank_terminal.sub_accounts.name_box": "名称",
   "gui.numismatics.bank_terminal.sub_accounts.named": "%s：子账户",
   "gui.numismatics.bank_terminal.sub_accounts.new": "New Sub Account",

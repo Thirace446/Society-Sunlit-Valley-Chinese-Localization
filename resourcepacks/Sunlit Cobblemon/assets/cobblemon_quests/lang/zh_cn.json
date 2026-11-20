@@ -16,7 +16,7 @@
   "cobblemon_quests.task.actions.tooltip": "完成此任务所需的具体操作。",
   "cobblemon_quests.task.pokemons.tooltip": "指定可计入任务进度的宝可梦列表。如果留空，则任何宝可梦均可触发进度。",
   "cobblemon_quests.task.amount.tooltip": "需要完成目标的宝可梦数量。",
-  "cobblemon_quests.task.shiny.tooltip": "是否要求必须是闪光（异色）宝可梦。",
+  "cobblemon_quests.task.shiny.tooltip": "是否要求必须是闪光宝可梦。",
   "cobblemon_quests.task.genders.tooltip": "限定宝可梦的性别要求。",
   "cobblemon_quests.task.forms.tooltip": "限定宝可梦的形态（如：阿罗拉、伽勒尔、洗翠形态等）。",
   "cobblemon_quests.task.pokemon_types.tooltip": "限定宝可梦的属性要求（如：火、水、草等）。",
