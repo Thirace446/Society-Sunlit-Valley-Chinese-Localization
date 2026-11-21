@@ -23,7 +23,8 @@
   "rei.vinery.fermentation_barrel_category": "高级酒桶",
   "tooltip.vinery.fermentation_barrel.empty": "这个高级酒桶是空的。",
   "tooltip.vinery.next_upgrade": "提升效果等级剩余天数：%s",
-
+  "block.vinery.dark_cherry_sapling": "深色樱桃树苗",
+  "block.vinery.apple_tree_sapling": "深色苹果树苗",
 
 
   "advancement.vinery.budding_grapes": "萌芽的葡萄",
@@ -80,7 +81,6 @@
   "block.vinery.dark_cherry_log": "深色樱桃木原木",
   "block.vinery.dark_cherry_planks": "深色樱桃木板",
   "block.vinery.dark_cherry_pressure_plate": "深色樱桃木压力板",
-  "block.vinery.dark_cherry_sapling": "深色樱桃树苗",
   "block.vinery.dark_cherry_shelf": "深色樱桃木架子",
   "block.vinery.dark_cherry_sign": "深色樱桃木告示牌",
   "block.vinery.dark_cherry_slab": "深色樱桃木台阶",

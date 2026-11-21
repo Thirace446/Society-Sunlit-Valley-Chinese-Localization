@@ -2,7 +2,7 @@
   "itemGroup.gag.gag": "GAG — Gadgets Against Grind",
 
   "info.gag.repelling_item": "使用后，给予玩家一个阻止附近的敌对生物生成的效果。",
-  "info.gag.supports_unbreaking": "可以附魔耐久与经验修补）",
+  "info.gag.supports_unbreaking": "(可以附魔耐久与经验修补）",
   "info.gag.time_sand_tooltip_mult": "此方块已加速至%s倍！",
   "info.gag.time_sand_tooltip_time": "剩余时间：%s秒",
 

@@ -1,4 +1,14 @@
 {
+  "bountiful.entry.farmer_obj_chop_on_cutting_board": "在农夫乐事砧板上切任意物品",
+  "bountiful.entry.fishing_obj_catch": "钓到任意物品",
+  "Common Bounty ": "普通悬赏 ",
+  "Uncommon Bounty ": "罕见悬赏 ",
+  "Rare Bounty ": "稀有悬赏 ",
+  "Epic Bounty ": "史诗悬赏 ",
+  "Legendary Bounty ": "传说悬赏 ",
+
+
+
   "block.bountiful.bountyboard": "悬赏板",
 
   "itemGroup.bountiful": "悬赏",
@@ -10,9 +20,9 @@
   "bountiful.entry.fisherman_obj_any_boat": "任何船",
   "bountiful.entry.mapper_obj_candles": "任何蜡烛",
   "bountiful.entry.shepherd_obj_banner_wildcard": "任何旗帜",
-  "bountiful.entry.fisherman_obj_catch_ench_book": "Fish up Enchanted Books[EN]",
-  "bountiful.entry.cleric_obj_brew_swiftness": "Brew a basic Swiftness Potion[EN]",
-  "bountiful.entry.cleric_obj_cure_zombie_villager": "Cure a Zombie Villager[EN]",
+  "bountiful.entry.fisherman_obj_catch_ench_book": "钓到附魔书",
+  "bountiful.entry.cleric_obj_brew_swiftness": "酿造最基础的迅捷药水",
+  "bountiful.entry.cleric_obj_cure_zombie_villager": "治愈一名僵尸村民",
   "bountiful.decree": "悬赏令",
   "bountiful.decrees": "悬赏令",
   "bountiful.decree.invalid": "无效的悬赏令",
@@ -40,7 +50,7 @@
   "bountiful.decree.fisherman.name": "渔民悬赏",
   "bountiful.decree.fletcher.name": "制箭悬赏",
   "bountiful.decree.hunting.name": "猎杀悬赏",
-  "bountiful.decree.inventor.name": "Inventing[EN]",
+  "bountiful.decree.inventor.name": "发明悬赏",
   "bountiful.decree.leatherer.name": "皮革悬赏",
   "bountiful.decree.librarian.name": "图书悬赏",
   "bountiful.decree.mapper.name": "绘图悬赏",
@@ -52,10 +62,6 @@
   "bountiful.bounty.type.entity.kills": "击杀",
   "bountiful.bounty.type.experience.levels": "经验等级",
   "bountiful.bounty.type.experience.points": "经验点数",
-  "bountiful.rarity.Common": "普通",
-  "bountiful.rarity.Uncommon": "特殊",
-  "bountiful.rarity.Rare": "稀有",
-  "bountiful.rarity.Epic": "史诗",
 
   "stat.bountiful.bounties_taken": "接取悬赏数",
   "stat.bountiful.bounties_done": "完成悬赏 (总计)",
