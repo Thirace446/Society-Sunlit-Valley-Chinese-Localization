@@ -111,7 +111,7 @@
   "society_skills.husbandry.biomancer": "生化术士",
   "society_skills.husbandry.biomancer.description": "手持§6刀§7右键信任你的动物，以降低好感度为代价剥取§6钻石之心§7。",
   "society_skills.husbandry.bribery": "贿赂",
-  "society_skills.husbandry.bribery.description": "对农场动物使用§7§6金币§7可增加§f1§7颗心好感度并使其好感度增长更快。",
+  "society_skills.husbandry.bribery.description": "对农场动物使用§7§6金硬币§7可增加§f1§7颗心好感度并使其好感度增长更快。",
   "society_skills.husbandry.category.title": "畜牧",
   "society_skills.husbandry.clockwork": "发条植入",
   "society_skills.husbandry.clockwork.description": "为农场动物安装§6精密构件§7可防止其好感度因使用§6机械手§7而降低。",
@@ -145,7 +145,7 @@
   "society_skills.mastery.mining_mastery": "采矿精通",
   "society_skills.mastery.mining_mastery.description": "交易商将会出售§d回收核心§7。\n铁匠将会出售§d月亮雕像§7。",
   "society_skills.mining.blockchain": "区块链",
-  "society_skills.mining.blockchain.description": "采矿时有几率发现§6金币§7。",
+  "society_skills.mining.blockchain.description": "采矿时有几率发现§6金硬币§7。",
   "society_skills.mining.category.title": "采矿",
   "society_skills.mining.excavator": "挖掘者",
   "society_skills.mining.excavator.description": "采矿时发现晶球的概率翻倍。",
@@ -167,7 +167,7 @@
   "society_skills.mining.mineralogist.description": "采矿时有几率发现§f🪓§7矿产类矿物。",
   "society_skills.mining.pickaxe_efficiency": "+I 镐子效率",
   "society_skills.mining.prismatic_prospector": "五彩探测器",
-  "society_skills.mining.prismatic_prospector.description": "开采晶球时有几率发现§d五彩碎片§7。",
+  "society_skills.mining.prismatic_prospector.description": "开采晶球矿点时有几率发现§d五彩碎片§7。",
   "society_skills.mining.star_blessing": "星辰祝福",
   "society_skills.mining.star_blessing.description": "采矿时有几率发现§6无瑕星辰碎片§7。\n\n§a在下界和骷髅洞穴中几率提升。"
 }

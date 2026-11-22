@@ -101,7 +101,7 @@ librarian、trader、witch、wise_oak 无神秘礼物。
 | 竹叶茅草 | `twigs:bamboo_thatch` |
 | 冲刺板 | `automobility:dash_panel` |
 | 骷髅鱼 / 凋灵骷髅鱼 | `netherdepthsupgrade:bonefish` / `netherdepthsupgrade:wither_bonefish` |
-| 熔岩晶球 / 全能晶球 / 冰冻晶球 / 晶球 | `society:magma_geode` / `society:omni_geode` / `society:frozen_geode` / `society:geode` |
+| 熔岩晶球 / 万象晶球 / 冰封晶球 / 晶球 | `society:magma_geode` / `society:omni_geode` / `society:frozen_geode` / `society:geode` |
 | 电池 | `society:battery` |
 | 橡树树脂 / 松焦油 | `society:oak_resin` / `society:pine_tar` |
 | 棕榈原木 | `beachparty:palm_log` |
