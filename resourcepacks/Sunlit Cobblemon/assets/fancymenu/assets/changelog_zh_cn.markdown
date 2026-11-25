@@ -3,11 +3,11 @@
 - 完整更新日志请将游戏语言切换为英语
 --- 
 - 同步更新至阳光谷 v4.2.2 版本
-- Added backported mons: Snover, Abomasnow, Burmy, Womadam, Mothim, Helioptile, Heliolisk
-- Added Shucked Shuckle and Harmonious Antimatter ranching drops
-- Added Late Winter Shiny Mystery Gifts to Poke Mart at Prismatic Tier
-- Fixed backported Pokemon sounds
-- Fixed Laurel Saplings not working on Craft Station
+- 新增回溯移植的宝可梦：雪笠怪、暴雪王、结草儿、结草贵妇、绅士蛾、伞电蜥、光电伞蜥
+- 新增壶壶与骑拉帝纳的牧场小窝掉落
+- 在大师级的友好商店中加入冬末闪光神秘礼物
+- 修复了回溯移植宝可梦的音效
+- 修复了月桂树苗无法在加工台使用的问题
 
 ## 阳光谷 4.2.0 - 永恒未来
 - 通过更新VanillaBackport模组添加了高版本「铜器时代」「群骑纷争」「奔赴荒野」的内容

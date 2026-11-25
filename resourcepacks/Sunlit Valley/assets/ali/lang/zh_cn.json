@@ -1,14 +1,14 @@
 {
-  "__comment.0": "Advanced Loot Info localization list compiled by Thirace.",
+  "__comment.ssv.0": "Advanced Loot Info localization list compiled by Thirace.",
 
-  "__comment.1": "aquaculture",
+  "__comment.ssv.1": "aquaculture",
   "ali/loot_table/box/box": "盒子",
   "ali/loot_table/box/lockbox": "加锁盒",
   "ali/loot_table/box/neptunes_bounty": "海王恩惠",
   "ali/loot_table/box/neptunes_bounty_junk": "海王恩惠",
   "ali/loot_table/box/treasure_chest": "财宝箱",
 
-  "__comment.2": "atmospheric",
+  "__comment.ssv.2": "atmospheric",
   "ali/loot_table/archaeology/arid_garden_common": "干旱 花园 常见 考古",
   "ali/loot_table/archaeology/arid_garden_rare": "干旱 花园 稀有 考古",
   "ali/loot_table/chests/arid_garden": "干旱 花园 箱子",
@@ -18,13 +18,13 @@
   "ali/loot_table/chests/kousa_sanctum_trap": "梾木 圣所 陷阱 箱子",
   "ali/loot_table/chests/village/village_scrubland": "村庄 灌丛地 箱子",
 
-  "__comment.3": "autumnity",
+  "__comment.ssv.3": "autumnity",
   "ali/loot_table/chests/maple_hut": "枫木 小屋 箱子",
 
-  "__comment.4": "bakery",
+  "__comment.ssv.4": "bakery",
   "ali/loot_table/advancements/completionist": "全成就收集者 进度",
 
-  "__comment.5": "balloonbox",
+  "__comment.ssv.5": "balloonbox",
   "ali/loot_table/chests/balloon_chest_blue": "气球 蓝色 箱子",
   "ali/loot_table/chests/balloon_chest_green": "气球 绿色 箱子",
   "ali/loot_table/chests/balloon_chest_pink": "气球 粉红色 箱子",
@@ -32,7 +32,7 @@
   "ali/loot_table/chests/balloon_chest_red": "气球 红色 箱子",
   "ali/loot_table/chests/balloon_chest_yellow": "气球 黄色 箱子",
 
-  "__comment.6": "beachparty",
+  "__comment.ssv.6": "beachparty",
   "ali/loot_table/chests/buried_treasure": "埋藏的宝藏 箱子",
   "ali/loot_table/chests/desert_pyramid": "沙漠神殿 箱子",
   "ali/loot_table/chests/shipwreck_supply": "沉船 补给 箱子",
@@ -45,7 +45,7 @@
   "ali/loot_table/chests/village/village_savanna_house": "村庄热带草原房屋 箱子",
   "ali/loot_table/chests/woodland_mansion": "林地府邸 箱子",
 
-  "__comment.7": "beautify",
+  "__comment.ssv.7": "beautify",
   "ali/loot_table/chests/botanist/botanist_chest": "植物学家 箱子",
   "ali/loot_table/chests/botanist/botanist_chest_desert": "植物学家 沙漠 箱子",
   "ali/loot_table/chests/botanist/botanist_chest_savanna": "植物学家 热带草原 箱子",
@@ -81,7 +81,7 @@
   "ali/loot_table/blocks/dandelion_pot": "蒲公英 悬挂花盆 方块",
   "ali/loot_table/blocks/glowberry_pot": "发光浆果 悬挂花盆 方块",
 
-  "__comment.8": "betterarcheology",
+  "__comment.ssv.8": "betterarcheology",
   "ali/loot_table/archeology/chest_buried_ruins_sand": "箱子 埋藏的 废墟 沙子 考古",
   "ali/loot_table/archeology/chest_catacombs_combat": "箱子 地下墓穴 战斗 考古",
   "ali/loot_table/archeology/chest_catacombs_generic": "箱子 地下墓穴 通用 考古",
@@ -130,7 +130,7 @@
   "ali/loot_table/blocks/treasure_loot_from_loot_vase": "宝藏 战利品 花瓶 方块",
   "ali/loot_table/blocks/supply_loot_from_loot_vase": "补给 战利品 花瓶 方块",
 
-  "__comment.9": "botania",
+  "__comment.ssv.9": "botania",
   "ali/loot_table/dice/roll_1": "掷 1 骰子",
   "ali/loot_table/dice/roll_2": "掷 2 骰子",
   "ali/loot_table/dice/roll_3": "掷 3 骰子",
@@ -274,7 +274,7 @@
   "ali/loot_table/loonium/minecraft/village_snowy": "村庄 积雪 聚宝花",
   "ali/loot_table/loonium/minecraft/village_taiga": "村庄 针叶林 聚宝花",
 
-  "__comment.10": "brewery",
+  "__comment.ssv.10": "brewery",
   "ali/loot_table/blocks/beer_standard": "啤酒双角挂旗 方块",
   "ali/loot_table/blocks/beer_wall_standard": "啤酒墙双角挂旗 方块",
   "ali/loot_table/blocks/patterned_carpet": "花纹地毯 方块",
@@ -286,14 +286,14 @@
   "ali/loot_table/blocks/barrel_right": "大木桶 方块",
   "ali/loot_table/blocks/barrel_head_right": "大木桶 方块",
 
-  "__comment.11": "candlelight",
+  "__comment.ssv.11": "candlelight",
   "ali/loot_table/blocks/candlelight_banner": "烛光晚宴 旗帜 方块",
 
-  "__comment.12": "cluttered",
+  "__comment.ssv.12": "cluttered",
   "ali/loot_table/chests/sapling_chest_loot": "树苗 战利品 箱子",
 
-  "__comment.13": "crabbersdelight",
-  "__comment.13.crabbersdelight.tips": "It is necessary to use the name \"Society\" to avoid any rendering errors in EMI.",
+  "__comment.ssv.13": "crabbersdelight",
+  "__comment.ssv.13.crabbersdelight.tips": "It is necessary to use the name \"Society\" to avoid any rendering errors in EMI.",
   "ali/loot_table/gameplay/crab_trap_loot/crabbersdelight/bucket_of_clam_chum": "蛤蜊饵 Society 捕蟹笼 战利品 游戏机制",
   "ali/loot_table/gameplay/crab_trap_loot/crabbersdelight/bucket_of_clawster_chum": "龙虾饵 Society 捕蟹笼 战利品 游戏机制",
   "ali/loot_table/gameplay/crab_trap_loot/crabbersdelight/bucket_of_crab_chum": "螃蟹饵 Society 捕蟹笼 战利品 游戏机制",
@@ -381,13 +381,13 @@
   "ali/loot_table/gameplay/crab_trap_loot/society/tuna_bait": "金枪鱼饵 Society 捕蟹笼 战利品 游戏机制",
   "ali/loot_table/gameplay/crab_trap_loot/society/wither_bonefish_bait": "凋灵骷髅鱼饵 Society 捕蟹笼 战利品 游戏机制",
 
-  "__comment.14": "crittersandcompanions",
+  "__comment.ssv.14": "crittersandcompanions",
   "ali/loot_table/gameplay/digging": "挖掘 游戏机制",
   "ali/loot_table/gameplay/digging/common": "常见 挖掘 游戏机制",
   "ali/loot_table/gameplay/digging/trash": "垃圾 挖掘 游戏机制",
   "ali/loot_table/gameplay/digging/treasure": "宝藏 挖掘 游戏机制",
 
-  "__comment.15": "displaydelight",
+  "__comment.ssv.15": "displaydelight",
   "ali/loot_table/blocks/apple_pie_slice": "苹果派切片 方块",
   "ali/loot_table/blocks/bacon_sandwich": "培根三明治 方块",
   "ali/loot_table/blocks/barbecue_stick": "烧烤 木棍 方块",
@@ -410,16 +410,16 @@
   "ali/loot_table/blocks/stuffed_potato": "填馅马铃薯 方块",
   "ali/loot_table/blocks/sweet_berry_cheesecake_slice": "甜浆果芝士派切片 方块",
 
-  "__comment.16": "domesticationinnovation",
+  "__comment.ssv.16": "domesticationinnovation",
   "ali/loot_table/chests/petshop_chest": "宠物店 箱子",
 
-  "__comment.17": "exposure",
+  "__comment.ssv.17": "exposure",
   "ali/loot_table/chests/abandoned_mineshaft": "废弃矿井 箱子",
   "ali/loot_table/chests/shipwreck_map": "沉船 空地图 箱子",
   "ali/loot_table/chests/stronghold": "要塞 箱子",
   "ali/loot_table/chests/village_plains_house": "村庄平原房屋 箱子",
 
-  "__comment.18": "farmersdelight",
+  "__comment.ssv.18": "farmersdelight",
   "ali/loot_table/chests/fd_abandoned_mineshaft": "废弃矿井 箱子",
   "ali/loot_table/chests/fd_bastion_hoglin_stable": "堡垒遗迹疣猪兽棚 箱子",
   "ali/loot_table/chests/fd_bastion_treasure": "堡垒遗迹藏宝室 箱子",
@@ -435,18 +435,18 @@
   "ali/loot_table/chests/fd_village_snowy_house": "村庄积雪房屋 箱子",
   "ali/loot_table/chests/fd_village_taiga_house": "村庄针叶林房屋 箱子",
 
-  "__comment.19": "farmlife",
+  "__comment.ssv.19": "farmlife",
   "ali/loot_table/gameplay/tribull_ranch_chest": "三足牛 牧场 箱子 游戏机制",
 
-  "__comment.20": "golemoverhaul",
+  "__comment.ssv.20": "golemoverhaul",
   "ali/loot_table/gameplay/barrel_golem_bartering": "木桶傀儡 交易 游戏机制",
 
-  "__comment.21": "herbalbrews",
+  "__comment.ssv.21": "herbalbrews",
   "ali/loot_table/advancements/coffee_beans": "咖啡豆 进度",
   "ali/loot_table/advancements/lilitus_coffee": "Miss Lilitu 咖啡 进度",
 
-  "__comment.22": "hopo",
-  "__comment.hopo.tips": "The loot_table for farm_carrot and farm_potato are both rendered abnormally in EMI.",
+  "__comment.ssv.22": "hopo",
+  "__comment.ssv.hopo.tips": "The loot_table for farm_carrot and farm_potato are both rendered abnormally in EMI.",
   "ali/loot_table/archaeology/mineshaft_remnants": "废弃矿井 遗迹 考古",
   "ali/loot_table/chests/mineshaft/abandoned_miners_stuff": "废弃 矿工 物品 废弃矿井 箱子",
   "ali/loot_table/chests/mineshaft/base/amethyst": "紫水晶 基础 废弃矿井 箱子",
@@ -505,10 +505,10 @@
   "ali/loot_table/entities/mineshaft/illusioner": "幻术师 废弃矿井 实体",
   "ali/loot_table/entities/mineshaft/zombie_villager": "僵尸村民 废弃矿井 实体",
 
-  "__comment.23": "labels",
+  "__comment.ssv.23": "labels",
   "ali/loot_table/entity/label": "标签 实体",
 
-  "__comment.24": "legendarycreatures",
+  "__comment.ssv.24": "legendarycreatures",
   "ali/loot_table/entities/peacock_spider": "孔雀蜘蛛 实体",
   "ali/loot_table/entities/peacock_spider_level2": "孔雀蜘蛛 2 实体",
   "ali/loot_table/entities/scorpion": "蝎子 实体",
@@ -516,7 +516,7 @@
   "ali/loot_table/entities/peacock_spider_level3": "孔雀蜘蛛 3 实体",
   "ali/loot_table/entities/scorpion_level2": "蝎子 2 实体",
 
-  "__comment.25": "lios_outlandish_villages",
+  "__comment.ssv.25": "lios_outlandish_villages",
   "ali/loot_table/chests/general/armorer": "盔甲匠 通用 箱子",
   "ali/loot_table/chests/general/arrows": "箭 通用 箱子",
   "ali/loot_table/chests/general/bees": "蜜蜂 通用 箱子",
@@ -541,7 +541,7 @@
   "ali/loot_table/chests/general/wools": "羊毛 通用 箱子",
   "ali/loot_table/chests/general/xptome": "经验之书 通用 箱子",
 
-  "__comment.26": "littlejoys",
+  "__comment.ssv.26": "littlejoys",
   "ali/loot_table/dig_spot/basalt": "玄武岩 挖掘点",
   "ali/loot_table/dig_spot/blackstone": "黑石 挖掘点",
   "ali/loot_table/dig_spot/bone_block": "骨块 挖掘点",
@@ -571,17 +571,17 @@
   "ali/loot_table/drop_rush/sweet_berry_bush": "甜浆果丛 掉落 冲刺",
   "ali/loot_table/fishing_spot/water": "水 钓鱼点",
 
-  "__comment.27": "lootr",
+  "__comment.ssv.27": "lootr",
   "ali/loot_table/chests/elytra": "鞘翅 箱子",
   "ali/loot_table/trophy": "奖杯",
   "ali/loot_table/blocks/trophy": "奖杯 方块",
 
-  "__comment.28": "meadow",
+  "__comment.ssv.28": "meadow",
   "ali/loot_table/blocks/wooly_bed": "羊毛 床 方块",
   "ali/loot_table/entities/wooly_sheep": "绒毛羊 实体",
   "ali/loot_table/entities/wooly_cow": "绒毛牛 实体",
 
-  "__comment.29": "mighty_mail",
+  "__comment.ssv.29": "mighty_mail",
   "ali/loot_table/blocks/acacia_mail_box": "金合欢木邮箱 方块",
   "ali/loot_table/blocks/birch_mail_box": "白桦木邮箱 方块",
   "ali/loot_table/blocks/cherry_mail_box": "樱花木邮箱 方块",
@@ -594,7 +594,7 @@
   "ali/loot_table/blocks/spruce_mail_box": "云杉木邮箱 方块",
   "ali/loot_table/blocks/warped_mail_box": "诡异木邮箱 方块",
 
-  "__comment.30": "minecraft",
+  "__comment.ssv.30": "minecraft",
   "ali/loot_table/archaeology/desert_pyramid": "沙漠神殿 考古",
   "ali/loot_table/archaeology/desert_well": "沙漠水井 考古",
   "ali/loot_table/archaeology/ocean_ruin_cold": "寒带海底废墟 考古",
@@ -638,7 +638,7 @@
   "ali/loot_table/entities/armor_stand": "盔甲架 实体",
   "ali/loot_table/entities/player": "玩家 实体",
 
-  "__comment.31": "mvs",
+  "__comment.ssv.31": "mvs",
   "ali/loot_table/abandoned": "废弃",
   "ali/loot_table/cart": "矿车",
   "ali/loot_table/cartographer_tower": "制图师 塔",
@@ -666,7 +666,7 @@
   "ali/loot_table/rare": "稀有",
   "ali/loot_table/swamps": "沼泽 结构",
 
-  "__comment.32": "netherdepthsupgrade",
+  "__comment.ssv.32": "netherdepthsupgrade",
   "ali/loot_table/gameplay/failed_fishing": "失败 钓鱼 游戏机制",
   "ali/loot_table/gameplay/failed_fishing/junk": "垃圾 失败 钓鱼 游戏机制",
   "ali/loot_table/gameplay/lava_fishing": "熔岩 钓鱼 游戏机制",
@@ -678,11 +678,11 @@
   "ali/loot_table/gameplay/nether_fishing/junk": "垃圾 下界 钓鱼 游戏机制",
   "ali/loot_table/gameplay/nether_fishing/treasure": "宝藏 下界 钓鱼 游戏机制",
 
-  "__comment.33": "oreganized",
+  "__comment.ssv.33": "oreganized",
   "ali/loot_table/gameplay/spotted_glance": "斑点闪岩 游戏机制",
   "ali/loot_table/gameplay/thermometer_breaking": "温度计 破碎 游戏机制",
 
-  "__comment.34": "quark",
+  "__comment.ssv.34": "quark",
   "ali/loot_table/misc/monster_box": "怪物盒子 杂项",
   "ali/loot_table/misc/monster_box_spawns": "怪物盒子 生成 杂项",
   "ali/loot_table/blocks/azalea_wall_sign": "杜鹃花丛 墙 告示牌 方块",
@@ -693,7 +693,7 @@
   "ali/loot_table/blocks/blossom_wall_hanging_sign": "喇叭木 墙 悬挂 告示牌 方块",
   "ali/loot_table/blocks/ancient_wall_hanging_sign": "远古 墙 悬挂 告示牌 方块",
 
-  "__comment.35": "ribbits",
+  "__comment.ssv.35": "ribbits",
   "ali/loot_table/chests/fisherman_main": "渔夫呱呱 主要 箱子",
   "ali/loot_table/chests/fisherman_storage": "渔夫呱呱 储存 箱子",
   "ali/loot_table/chests/gardener": "园丁呱呱 箱子",
@@ -701,7 +701,7 @@
   "ali/loot_table/chests/nitwit": "无业呱呱 箱子",
   "ali/loot_table/chests/sorcerer": "巫师呱呱 箱子",
 
-  "__comment.36": "rottencreatures",
+  "__comment.ssv.36": "rottencreatures",
   "ali/loot_table/entities/undead_stone_miner": "腐朽 石头 矿工 实体",
   "ali/loot_table/entities/undead_iron_miner": "腐朽 铁 矿工 实体",
   "ali/loot_table/entities/burned_obsidian": "燃烧 黑曜石 实体",
@@ -710,25 +710,25 @@
   "ali/loot_table/entities/treasure_chest": "宝箱 实体",
   "ali/loot_table/entities/undead_diamond_miner": "腐朽 钻石 矿工 实体",
 
-  "__comment.37": "sawmill",
+  "__comment.ssv.37": "sawmill",
   "ali/loot_table/chests/village_carpenter_desert": "村庄 木匠 沙漠 箱子",
   "ali/loot_table/chests/village_carpenter_plains": "村庄 木匠 平原 箱子",
   "ali/loot_table/chests/village_carpenter_taiga": "村庄 木匠 针叶林 箱子",
 
-  "__comment.38": "scholar",
+  "__comment.ssv.38": "scholar",
   "ali/loot_table/entities/literate_mob_book": "学问 生物 书 实体",
 
-  "__comment.39": "sewingkit",
+  "__comment.ssv.39": "sewingkit",
   "ali/loot_table/chest/tailor_shop_upper_floor": "裁缝 商店 上层 地板 箱子",
 
-  "__comment.40": "simplehats",
+  "__comment.ssv.40": "simplehats",
   "ali/loot_table/inject/hatbag_chest": "帽子 箱子 注入",
   "ali/loot_table/inject/hatbag_entity": "帽子 实体 注入",
 
-  "__comment.41": "snowpig",
+  "__comment.ssv.41": "snowpig",
   "ali/loot_table/entities/snow_pig": "雪 猪 实体",
 
-  "__comment.42": "snowyspirit",
+  "__comment.ssv.42": "snowyspirit",
   "ali/loot_table/chests/igloo_sled": "雪屋 雪橇 箱子",
   "ali/loot_table/chests/present_villager": "礼物 村民 箱子",
   "ali/loot_table/entities/gingerbread_golem": "姜饼傀儡 实体",
@@ -737,7 +737,7 @@
   "ali/loot_table/entities/gingerbread_golem_loot/gingerbread_cookie": "姜饼曲奇 姜饼傀儡 战利品 实体",
   "ali/loot_table/entities/gingerbread_golem_loot/gingerbread": "姜饼傀儡 战利品 实体",
 
-  "__comment.43": "society",
+  "__comment.ssv.43": "society",
   "ali/loot_table/chests/stables": "马厩 箱子",
   "ali/loot_table/util/common_coin_loot": "常见 硬币 战利品 工具",
   "ali/loot_table/util/gold_rush_bismuth": "淘金热 铋 工具",
@@ -748,7 +748,7 @@
   "ali/loot_table/util/gold_rush_nether_quartz": "淘金热 下界石英 工具",
   "ali/loot_table/util/rare_coin_loot": "稀有 硬币 战利品 工具",
 
-  "__comment.44": "sophisticatedbackpacks",
+  "__comment.ssv.44": "sophisticatedbackpacks",
   "ali/loot_table/inject/chests/abandoned_mineshaft": "废弃矿井 箱子 注入",
   "ali/loot_table/inject/chests/bastion_treasure": "堡垒遗迹藏宝室 箱子 注入",
   "ali/loot_table/inject/chests/desert_pyramid": "沙漠神殿 箱子 注入",
@@ -759,14 +759,14 @@
   "ali/loot_table/inject/chests/spawn_bonus_chest": "新世界生成时的奖励箱 箱子 注入",
   "ali/loot_table/inject/chests/woodland_mansion": "林地府邸 箱子 注入",
 
-  "__comment.45": "species",
+  "__comment.ssv.45": "species",
   "ali/loot_table/archaeology/paleontology_dig_site/common": "常见 古生物学发掘现场 恶地 考古",
   "ali/loot_table/archaeology/paleontology_dig_site/epic": "史诗 古生物学发掘现场 恶地 考古",
   "ali/loot_table/archaeology/paleontology_dig_site/rare": "稀有 古生物学发掘现场 恶地 考古",
   "ali/loot_table/chests/libra_chest": "天秤 箱子",
   "ali/loot_table/chests/wraptor_coop_chest": "扭曲鸟窝 箱子",
 
-  "__comment.46": "stardew_fishing",
+  "__comment.ssv.46": "stardew_fishing",
   "ali/loot_table/treasure/bobbers": "浮漂 宝藏",
   "ali/loot_table/treasure/misc": "杂项 宝藏",
   "ali/loot_table/treasure/misc_nether": "杂项 下界 宝藏",
@@ -776,10 +776,10 @@
   "ali/loot_table/treasure_chest": "宝箱",
   "ali/loot_table/treasure_chest_nether": "宝箱 下界",
 
-  "__comment.47": "strawstatues",
+  "__comment.ssv.47": "strawstatues",
   "ali/loot_table/entities/straw_statue": "稻草雕像 实体",
 
-  "__comment.48": "supplementaries",
+  "__comment.ssv.48": "supplementaries",
   "ali/loot_table/blocks/candle_holder_cupric": "蜡烛烛台 铜绿 方块",
   "ali/loot_table/blocks/candle_holder_ender": "蜡烛烛台 末影 方块",
   "ali/loot_table/blocks/candle_holder_spectacle": "蜡烛烛台 奇观 方块",
@@ -813,16 +813,16 @@
   "ali/loot_table/blocks/urn_loot/epic": "史诗 瓮 战利品 方块",
   "ali/loot_table/blocks/urn_loot/rare": "稀有 瓮 战利品 方块",
 
-  "__comment.49": "titanium",
+  "__comment.ssv.49": "titanium",
   "ali/loot_table/blocks/titanium_block_asset_test": "钛 方块 资源 测试方块",
   "ali/loot_table/blocks/titanium_block_test": "钛 方块 测试方块",
   "ali/loot_table/blocks/titanium_block_twenty_four_test": "钛 方块 二十四 测试方块",
   "ali/loot_table/blocks/titanium_creative_fe_generator": "钛 创造 FE 发电机 方块",
 
-  "__comment.50": "treechop",
+  "__comment.ssv.50": "treechop",
   "ali/loot_table/chopping/chopped_log": "被砍的原木 伐木",
 
-  "__comment.51": "trials",
+  "__comment.ssv.51": "trials",
   "ali/loot_table/chests/tower_loot": "塔 战利品 箱子",
   "ali/loot_table/gameplay/diamond_armor": "钻石盔甲 游戏机制",
   "ali/loot_table/gameplay/food_loot": "食物 战利品 游戏机制",
@@ -832,7 +832,7 @@
   "ali/loot_table/gameplay/vault_loot": "宝库 战利品 游戏机制",
   "ali/loot_table/gameplay/vault_special_loot": "宝库 特殊 战利品 游戏机制",
 
-  "__comment.52": "trofers",
+  "__comment.ssv.52": "trofers",
   "ali/loot_table/trophies/alexsmobs/grizzly_bear": "灰熊 奖杯",
   "ali/loot_table/trophies/alexsmobs/sugar_glider": "蜜袋鼯 奖杯",
   "ali/loot_table/trophies/allay": "悦灵 奖杯",
@@ -845,15 +845,15 @@
   "ali/loot_table/trophies/quark/toretoise": "矿石陆龟 奖杯",
   "ali/loot_table/trophies/slime": "史莱姆 奖杯",
 
-  "__comment.53": "twigs",
+  "__comment.ssv.53": "twigs",
   "ali/loot_table/chests/bloodstone_obelisk": "血石 方尖碑 箱子",
 
-  "__comment.54": "unusualfishmod",
+  "__comment.ssv.54": "unusualfishmod",
   "ali/loot_table/gameplay/sea_pancake_search": "海煎饼鱼 搜寻 游戏机制",
   "ali/loot_table/entities/voltangler": "伏特鮟鱇鱼 实体",
   "ali/loot_table/entities/sneepsnorp": "长鼻鱼 实体",
 
-  "__comment.55": "veggiesdelight",
+  "__comment.ssv.55": "veggiesdelight",
   "ali/loot_table/chests/vd_abandoned_mineshaft": "废弃矿井 箱子",
   "ali/loot_table/chests/vd_pillager_outpost": "掠夺者前哨站 箱子",
   "ali/loot_table/chests/vd_shipwreck_supply": "沉船 补给 箱子",
@@ -870,16 +870,16 @@
   "ali/loot_table/chests/vd_wagon_taiga": "马车 针叶林 箱子",
   "ali/loot_table/chests/wagon": "马车 箱子",
 
-  "__comment.56": "verdantvibes",
+  "__comment.ssv.56": "verdantvibes",
   "ali/loot_table/chests/oak_overgrown_hut": "橡木 蔓生 小屋 箱子",
   "ali/loot_table/chests/spruce_overgrown_hut": "云杉木 蔓生 小屋 箱子",
 
-  "__comment.57": "vintagedelight",
+  "__comment.ssv.57": "vintagedelight",
   "ali/loot_table/chests/mixed_seeds": "混合 种子 箱子",
   "ali/loot_table/chests/vd_bastion_hoglin_stable": "堡垒遗迹疣猪兽棚 箱子",
   "ali/loot_table/chests/vd_ruined_portal": "废弃传送门 箱子",
 
-  "__comment.58": "wildernature",
+  "__comment.ssv.58": "wildernature",
   "ali/loot_table/bountyboard/tier1_contract_boar": "已移除",
   "ali/loot_table/bountyboard/tier1_contract_cod": "已移除",
   "ali/loot_table/bountyboard/tier1_contract_deer_with_bow": "已移除",
@@ -913,7 +913,7 @@
   "ali/loot_table/bountyboard/tier3_contract_turkey": "已移除",
   "ali/loot_table/bountyboard/tier3_contract_turkey_with_blunderbuss": "已移除",
 
-  "__comment.59": "windswept",
+  "__comment.ssv.59": "windswept",
   "ali/loot_table/archaeology/grove_weathered_house": "雪林 风化 房屋 考古",
   "ali/loot_table/archaeology/pine_totem": "松树 图腾 考古",
   "ali/loot_table/archaeology/snowy_pine_totem": "积雪 松树 图腾 考古",
@@ -923,7 +923,7 @@
 
 
   
-  "__comment.ali.zh_cn": "Addition",
+  "__comment.ssv.ali.zh_cn": "Addition",
   "emi.category.ali.cat_morning_gift": "猫的晨间礼物",
   "emi.category.ali.piglin_bartering": "猪灵交易",
   "emi.category.ali.sniffer_digging": "嗅探兽挖掘"
