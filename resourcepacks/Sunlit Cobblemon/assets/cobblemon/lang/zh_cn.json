@@ -17,7 +17,7 @@
     "item.cobblemon.mana_ball": "魔力球",
     "item.cobblemon.mana_ball.tooltip": "捕获率x3.5",
     "item.cobblemon.blossom_ball": "绽放球",
-    "item.cobblemon.blossom_ball.tooltip": "捕获率x0.5 使捕获的宝可梦变为异色",
+    "item.cobblemon.blossom_ball.tooltip": "捕获率x0.5 使捕获的宝可梦变为闪光",
     "item.cobblemon.prismatic_ball": "五彩球",
-    "item.cobblemon.prismatic_ball.tooltip": "捕捉异色宝可梦时捕获率x4.5 捕捉其他宝可梦时捕获率x3"
+    "item.cobblemon.prismatic_ball.tooltip": "捕捉闪光宝可梦时捕获率x4.5 捕捉其他宝可梦时捕获率x3"
 }

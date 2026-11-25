@@ -7,5 +7,10 @@
   "item.bakery.bundt_cake_slice": "橙子邦特蛋糕切片",
   "item.bakery.jam_roll": "火龙果卷",
   "item.bakery.linzer_tart_slice": "桃子林泽馅饼切片",
-  "item.bakery.toast": "香蕉面包"
+  "item.bakery.toast": "香蕉面包",
+  "block.bakery.iron_bench": "铁凳",
+  "item.bakery.grilled_salmon_sandwich": "鲑鱼三明治",
+  "item.bakery.grilled_bacon_sandwich": "培根三明治",
+  "item.bakery.bread_with_jam": "果酱面包",
+  "tooltip.bakery.cakedoughonstation": "将蛋糕面团放在烘焙台上即可开始烘焙"
 }

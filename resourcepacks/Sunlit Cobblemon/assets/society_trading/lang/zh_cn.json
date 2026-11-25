@@ -148,10 +148,13 @@
   "jei.society_trading.trainer_lvl_8": "训练家等级达到：大师级",
   "jei.society_trading.trainer_lvl_9": "训练家等级达到：？？？",
 
-  "jei.society_trading.banker_mystery_gift": "训练家等级达到：大师级+银行家村民满好感",
-  "jei.society_trading.blacksmith_mystery_gift": "训练家等级达到：大师级+铁匠村民满好感",
-  "jei.society_trading.carpenter_mystery_gift": "训练家等级达到：大师级+木匠村民满好感",
-  "jei.society_trading.fisher_mystery_gift": "训练家等级达到：大师级+渔夫村民满好感",
-  "jei.society_trading.market_mystery_gift": "训练家等级达到：大师级+市场村民满好感",
-  "jei.society_trading.shepherd_mystery_gift": "训练家等级达到：大师级+牧羊人村民满好感"
+  "jei.society_trading.banker_mystery_gift": "训练家等级达到：大师级+银行家满好感",
+  "jei.society_trading.blacksmith_mystery_gift": "训练家等级达到：大师级+铁匠满好感",
+  "jei.society_trading.carpenter_mystery_gift": "训练家等级达到：大师级+木匠满好感",
+  "jei.society_trading.fisher_mystery_gift": "训练家等级达到：大师级+渔夫满好感",
+  "jei.society_trading.market_mystery_gift": "训练家等级达到：大师级+市场满好感",
+  "jei.society_trading.shepherd_mystery_gift": "训练家等级达到：大师级+牧羊人满好感",
+  "jei.society_trading.librarian_mystery_gift": "训练家等级达到：大师级+图书管理员满好感",
+  "jei.society_trading.trader_mystery_gift": "训练家等级达到：大师级+交易商满好感",
+  "jei.society_trading.witch_mystery_gift": "训练家等级达到：大师级+女巫满好感"
 }

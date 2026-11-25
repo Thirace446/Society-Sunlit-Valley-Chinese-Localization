@@ -3,105 +3,46 @@
 
 - **本仓库用于存放 Society 系列整合包添加的自定义内容及其使用到模组的中文翻译**
 - https://github.com/Thirace446/Society-Sunlit-Valley-Chinese-Localization
-  - 阳光谷开发组从3.0版本就开始跟进本地化需求，目前已于4.0.5版本将所有文本处理为翻译键，无需第三方开发者修改任何脚本，也不需要玩家覆盖任何文件即可完成汉化工作
+  - 目前整合包已内置 98% 汉化，不再需要包括 i18n汉化模组 在内的任何第三方汉化。
   - 如有发现遗漏的翻译请反馈
-  - 不接网盘广告
-  - 不接服务器广告
-  - 本项目与 BBSMC 或 柠娜 制作的 "阳光谷汉化" 无关
+  - 汉化完全免费公开开源，不会夹带私货
+  - 不接网盘/服务器广告
+  - 本项目与其他第三方制作的"阳光谷汉化"无从属关系
+---
 
 ## 整合包下载
 - https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley
 - https://www.curseforge.com/minecraft/modpacks/society-sunlit-cobblemon
 
-### 如果你想要参与阳光谷汉化维护：
-- 请加入官方的 Discord 频道并获取 Translator 身份组后找到我们中文专属的帖子
-- https://discord.gg/GdcZkrZqkj
-- 或在汉化反馈群中联系两位中文"翻译经理"提交你的汉化
-- 由于整合包作者不接受AI翻译的任何作品，所以请酌情提交人类翻译
----
-
-
-## 本项目的参与者列表(贡献不分先后)
-| 名字 | 贡献 | 官方频道身份组 |
-|---|---|---|
-| Thirace | SSV+SSC 翻译提交 | 社区翻译经理，代码贡献者 |
-| yizhouuuu | SSV 翻译协助 | 社区翻译经理 |
-| Kim_Banira | SSV+SSC 翻译协助 | 社区翻译 |
-| MarsPrunus | SSV 翻译协助 | 社区翻译 |
-| Polaris_Light | SSV 翻译协助 | 社区翻译 |
-| shenyu | 任务翻译纠错 | 无 |
-| RedAlearnt | 物品翻译纠错 | 无 |
-| Illdan | 手册翻译纠错 | 无 |
-
 ## 汉化反馈群：700510144
 - **群内不会提供任何形式的整合包本体下载，请从官方链接下载**
-- 没有添加额外模组出现错误或崩溃问题能听得懂人话的有空就帮你看
-- 添加 5 个以内额外模组出现错误或崩溃问题酌情提供帮助
-- 添加 5 个以上额外模组出现错误或崩溃问题请自行解决
-- 使用 模组+插件混合服务端 出现错误或崩溃问题请自行解决
+- 没有添加额外模组 出现错误或崩溃问题 能听得懂人话 随时可以提供帮助
+- 添加 5 个以内额外模组 出现错误或崩溃问题 酌情提供帮助
+- 添加 5 个以上额外模组 出现错误或崩溃问题 请自行解决
+- 使用 模组+插件混合服务端 出现错误或崩溃问题 请自行解决
 - 如果你无法将话题控制在与阳光谷有关的内容上请不要加群
 - 禁止拉踩玩法和流派
+  - 添加额外模组禁止参与整合包主要玩法讨论(如自动钓鱼)
 
-
-### 正在维护的汉化：
-#### Society: Sunlit Valley - by Thirace
-- 汉化最新的支持版本为：4.1.5
-- 由于任务文本包括它的键一直在调整所以也不是完全向下支持
-- 4.1.0 dialog(NPC对话) 新增400条文本 共计1200条对话 校对暂未完成
-- 从 4.1.1 开始提供更新日志汉化支持 (新增)
-
-#### Society: Sunlit Cobblemon - by Thirace
-- 汉化最新的支持版本为：1.1.4
+### 如果你想要参与阳光谷汉化维护：
+- 请加入官方社区并获取 Translator 身份组后找到我们中文专属的帖子
+- https://discord.gg/GdcZkrZqkj
+- 或在汉化反馈群中联系群主提交你的汉化
+  - 即使直接在Github提交汉化也需要审核
+- 由于整合包作者不接受机翻，所以请酌情提交人类翻译
 ---
 
-## 汉化使用说明：
-- 整合包已内置部分(历史提交)中文翻译，推荐在群文件或本仓库拉取阳光谷专用的汉化材质包
-- https://github.com/Thirace446/Society-Sunlit-Valley-Chinese-Localization
-- 并配合i18n汉化模组/材质包食用
-- https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod
-  - https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+### 回顾过去：
+- 从我第一次参与到阳光谷的汉化到现在已经过去了一年左右，我在25年9月左右才加入的阳光谷官方社区。
+- 当时整合包的本地化支持还非常少，我只提交了大部分Society的自定义物品翻译，这个状态一直持续到4.0版本。
+- 非常感谢那些帮助推进阳光谷本地化的人；
+  - Chakyl 是整合包的首席开发者，首先感谢他制作了这么有趣的整合包，其次他的目光非常长远且一直在支持并推进本地化协同工作。
+  - Hexagreen 是韩语翻译，他为阳光谷的本地化创造了最大的可能性，大量原本硬编码的文本都由他编写的脚本和模组转化，让我们能在4.0.5版本将整合包中大部分文本转化为翻译键。
+- 所以我也趁热打铁提交了任务的汉化，其次在 SSV 4.0.5 版本期间，SSC 开始了测试，所以我也翻译了 SSC 并让其能在发布时内置汉化。
+- SSV 在经过十多个版本的迭代直到 4.1.5 版本才趋于完善，此时汉化完成度达到了90%。
+- 作者在更新 4.1.5 后就发布了停止更新通知，转而全力开发 SSV 2.0 版本；不过在考虑到开发周期的时间跨度可能会比较大后，故又更新了 4.2.x 版本，我才有机会提交完整版汉化，至此阳光谷已不再需要第三方汉化补丁。
+- 在这里我也要感谢汉化反馈群的群友们，没有你们的反馈和讨论也不会有今天。
 
-### 详细说明：
-#### 阳光谷中文材质包
-##### Society Sunlit Valley Chinese Localization
-- **无需解压，直接添加到材质包 resourcepacks 文件夹！！！** 
-  <details>
-  <summary>如下所示</summary>
-  <pre><code>
-  Sunlit Valley
-  └──minecraft
-     └──resourcepacks
-        ├──Society Sunlit Valley Chinese Localization.zip
-        └──Minecraft-Mod-Language-Modpack-1-20.zip
-  </code></pre>
-  </details>
-- 启动游戏后在**材质包设置**中，务必将阳光谷汉化**置于最上方**，阳光谷有非常多专门调整过的文本，如果只安装I18n汉化资源包会导致一些物品和描述被原模组翻译覆盖，从而达不到正确的翻译效果
-
-#### 阳光方可梦中文材质包
-##### Society Sunlit Cobblemon Chinese Localization
-- **无需解压，直接添加到材质包 resourcepacks 文件夹！！！** 
-  <details>
-  <summary>如下所示</summary>
-  <pre><code>
-  Sunlit Cobblemon
-  └──minecraft
-     └──resourcepacks
-        ├──Society Sunlit Cobblemon Chinese Localization.zip
-        ├──Society Sunlit Valley Chinese Localization.zip
-        └──Minecraft-Mod-Language-Modpack-1-20.zip
-  </code></pre>
-  </details>
-- 需要同时安装阳光谷中文本地化资源包，且务必将阳光方可梦汉化置于最上方！！！
-
-### 其他
-#### 帕秋莉手册汉化 (4.1.0 已合并-后续版本无需安装)
-##### Extra Society Sunlit Valley Chinese Localization 
-  <details>
-  <summary>如下所示</summary>
-  <pre><code>
-  Sunlit Valley
-  └──minecraft
-     └──patchouli_books
-  </code></pre>
-  </details>
-
+### 展望未来：
+- 即使 SSV/C 1.0 在发布 4.2.x 版本后不会再提供更新，我也会在这个仓库随时更新大家反馈的汉化修改建议，同时我也会发布汉化材质包以应对汉化更新，这也是我一直在做的；我会继续维护这个项目直到我对它失去兴趣。
+- 与此同时，我也会负责正在开发中的 SSV/C 2.0 的翻译工作；如果条件允许的话，在正式发布时将会内置中文，敬请期待。
